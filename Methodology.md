@@ -89,8 +89,6 @@
 	1. Identify Risk Factors
 
 		1. read Item 1A and any other risk factors along the way
-<br>
-<br>
 
 	1. Valuation
 
