@@ -57,10 +57,10 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 - Revenue Mix
 
 	- Domestic
-![Domestic Revenue Mix]()
+![Domestic Revenue Mix](https://dsm01pap006files.storage.live.com/y4metKGU2TXyamx_L95_FZuF6HCQutdENXQthyXb9HnIHBG90LTDy7iuzuWD9zaMPQV4FS969eyR7cQpoNHHZcvakUl0kZbBeURO_mtwz58x5F-MOWhL50gDj0FvAZuOOplG7Rpl_SgJf85wbR514UYgdlJZoU3qVM1aUkWNTnwjwfb_B6_i4w26QXYAY-b2ZQA?width=1233&height=222&cropmode=none)
 
-	- International
-![International Revenue Mix](images/InternationalRevenueMix2021.JPG)
+	- International <br>
+![International Revenue Mix](https://dsm01pap006files.storage.live.com/y4msoVIAtJJgsPA8qTnX9Egb0KHlubnd708Ke1WR7F_3AAbnt2VOGVUdE0SdIpojYU7ui3uaE_7VcnT4tiARtUjI9WStpn12wQAJTITycL8CdsBvriOED3kdYoFj-5f9JbOx6KV7p-7Q3GyslbzxluBstEflrSteV35uHauid1TRHtcw0ZyMBvCzcu5mNvrVysi?width=606&height=122&cropmode=none)
 
 	- not suprisingly heavy on the electronic hardware :thinking:
 
@@ -89,7 +89,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 <br>
 
 	- most stores are leased 
-![Properties](images/LeasedProperties.JPG)
+![Properties](https://dsm01pap006files.storage.live.com/y4mEQq9XVhpO24lzCWUSLjeu1rUUid6Xo4-1pnRY5GrvfQbOpoKbyI1LhetbogAOw6jtepMa-K-16ZRIfeFihkimq6W37tlLAONYZkYRuXyiqrXrVgo0tT0shfL5eNM9Z01S9yxF8EeU9h1DMclGpQQviEmxz2JJrYohuCfhvcNWtTDawXGOnfBYMhGrqa_MzhC?width=1238&height=142&cropmode=none)
 
 [Back to Table of contents](#table-of-contents)
 
@@ -160,8 +160,9 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 
 
 - WMT has been losing share (https://www.pymnts.com/news/retail/2021/no-pain-no-gain-amazon-walmart-fight-for-electronics-share-stagnates/)
-![Quarterly Share WMT vs AMZN](images/CEShareQuarterly.jpg)
-![Annual Share WMT vs AMZN](images/CEShareAnnual.jpg)
+![Quarterly Share WMT vs AMZN](https://dsm01pap006files.storage.live.com/y4mPCsBkGJjxVQeFB7A2UcQDVOhL1JVBjGzUURVgex9CKHkVucOqxopDynq0VT3L-OTZYkrjtNOpQ_5iTrsfSvECxnNetNSa6Twko6nz2b3nTw7-lxtzHKKGXeSgkcRVCDxitU2mfoQyqZSqwV9kpZ2CtjAnv_3wnWPOr33vnwA2EsD69k4QEvtJn0f-4bm6MUU?width=1214&height=557&cropmode=none)
+
+![Annual Share WMT vs AMZN](https://dsm01pap006files.storage.live.com/y4m5LTfgtTCQnlhJ_nxprHCFo4ewT29Th6jcIUTGp_cbmyRa3aq5IfCOVIQc5-dvONY5Y5v2P6Ep1GEMHRUKN9VLaT2SBkL9ytMNGL5hdr-589urE-JwIvvxivuASrbB43uNxnfUNX9QInNUMhgWRoSwo3avaO28Skuq6mldP7vWOz2huiw6e86w22VnTuiPhzW?width=1209&height=432&cropmode=none)
 
 [Back to Table of contents](#table-of-contents)
 
@@ -170,7 +171,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 - e-commerce
 	- https://ecommercedb.com/en/store/bestbuy.com
 
-	![BBY Online Marketshare](images/BBYOnlineMarketShare.JPG)
+	![BBY Online Marketshare](https://dsm01pap006files.storage.live.com/y4mtu5tfYCEttclX0a7mRkHDiLwtCQkKnhsbMsTgJgHljbwc2h11F9-CR898c9_LfiOxAeLEBXkTV6Y6eVYPV8wkQaSD8x9In29o5jXcA-LwNV2BhUcTyfXYpip2mqYDeuRYCuT5kYwrRQSx40DL86mYtqk0OzgFQs5OCWO2qwN_GOnqYLSqYpq6fM3e18w7l7j?width=809&height=509&cropmode=none)
 
 	- ecommerce drove market share gain,  9.6% to 9.8% in consumer electronics
 
@@ -201,7 +202,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 <br>
 
 - aside from staples they also provide the most services that other major retailers don't
-![Properties](images/Services.JPG)
+![Properties](https://dsm01pap006files.storage.live.com/y4mEGf28cPba_kgUi49861XzTZHM7VELq5B609UuB3kEy4XBgdoxhxbziz0XRTL8iS9V63k23WQ5pgf6uH9wiRMlnleT9qeUIyv_p099Jt1oUALfNdbRHVY4AepdqlOeGYN0mJZR6BDOAcLTL8HnnbMTkp4E5loXKxylN673qmK04-ZkGjd_sG0ZnQOGfmyLBJ0?width=555&height=237&cropmode=none)
 	- source: https://www.forbes.com/sites/greatspeculations/2021/11/02/best-buy-is-thinking-inside-and-outside-the-retail-box/?sh=75b06c676220
 
 <br>
@@ -214,18 +215,22 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 
 ## Risks <a name="risks"></a>
 
+- macroeconomic conditions that affect consumer spending :thinking:
+
+	- federal monetary tightening ahead
+
+	- no more stimulus
+
+	- consumer confidence index :thinking:
+![CCI](https://dsm01pap006files.storage.live.com/y4mPSmVGwELFjmMnPTReDSsTRGtjvwvLhQnzw2czqDLIOGLPCul7-N-X6uwBjqD5xikBFnFSfyGtwl-Sgu5wDmpES7kp_e4X672AO2nB_F-fwAk9NhxHN52VMeiSZHlXewFJcJEaTwJii7PJfxFEaONpLCI4WR1lDOVzt3tgO7YBFmbG9QVnEEpWVbv-SewhVWC?width=1092&height=640&cropmode=none)
+
+<br>
+
 - CEO being investigated for inappropriate relationship with a senior VP :-1:
 	
 	- a pervious CEO in the past had to resign due to the same thing
 
-<br>
 
-- macroeconomic conditions that affect consumer spending
-
-	- federal monetary tightening ahead
-
-	- consumer confidence index :thinking:
-![Properties](images/CCI.JPG)
 
 	- source: https://www.conference-board.org/topics/consumer-confidence
 
@@ -292,10 +297,10 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 
 - DCF - <b>$86.35</b> target price based on a 7.5% cost of equity
 
-![DCF](images/DCF.jpg)
+![DCF](https://dsm01pap006files.storage.live.com/y4mCEv6nFIJF5_BR4t_KDRvsImgOboCLtya54MJ4NFyY91XBydrXLGcQketvfw0rRV7WlofLBIhNL7MK4qZlzAYABUt7ZmpYfTFcdANH7Q_MvPiH5OkzpnAOnOWRHEF8yF03uPHni6ojwN_a0rbm6bfGiEtZjUyEJ--k19yl0g2Zct4ZKUekGvbbaKgxyhB1o-u?width=1265&height=334&cropmode=none)
 
 
-- higher cost of equity chosen to offset BBY's narrow moat
+- higher cost of equity 7.5% (as opposed to our 6% minimum) chosen to offset BBY's narrow moat and existing risk factors.
 
 - assumptions
 
@@ -309,7 +314,8 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 
 	- assume a terminal growth rate of 2%
 		- BBY has been able to show consecutive years of comp sales growth since their 2012 turn around
-![Comp Sales Growth](images/CompSalesGrowth.jpg)
+
+![Comp Sales Growth](https://dsm01pap006files.storage.live.com/y4mlRT7xE8k3qqTNO3BU61qOoAx1C9LHfXSyxMc-YrtdFJ5R-kWqrNoY1GTE_QEkk3RrHyJP3ZilDJaALvkIczZ66NrxjreGdPYNyBL28FGl_vx2dvl9qWfBLKQMsT9CoryskbXtHRyseZ3SCNTjOtxtlIH8HC_GwPWM1-yhqodc168ibTaoAZJaTK7ycqq0M3N?width=819&height=505&cropmode=none)
 
 
 [Back to Table of contents](#table-of-contents)
@@ -319,7 +325,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 - Reinvestment returns <a name="reinvestment-returns"></a>
 
 	- chart :+1:
-![Reinvestment Returns](images/ReinvestmentReturns.jpg)
+![Reinvestment Returns](https://dsm01pap006files.storage.live.com/y4mtmK28gE8XuTUo84koZhdqnHKTG6QWjuYgNmER5jlB-eok6lACEm6xWu6kYcU9UMm6McTykqNwLNBz13IWfkjYSgj4778OdAmhh53PZOgJJYGLNcVDdvQOxdLygpo_Gxmn2k44ZpXWzaIpBFNynKWVfOczfZG15nm7gSrQHrYsyRREoG8o5KvUZ-pWYDzSeHK?width=1420&height=234&cropmode=none)
 
 	- 2013 
 
@@ -347,7 +353,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 		- shift from store capex spending to e-commerce and IT
 
 		- marked increase in e-commerce spending :+1:
-			![Properties](images/CapexSpending2021.JPG)
+			![Capex](https://dsm01pap006files.storage.live.com/y4m6sEp0bpRwM31lA7tZuwF2xgI8P6eEan0Y2DgIxgxX84KWzP1du4EBpPjX3rY4Qbs-dldixXbLqopQzZ3uWqxOcLtNKKyZsChImo5I3-F8bGeMbmAsAPhfUk1wSi-7YlxFR1pijP5lvCY1LxhPRGsJM_PXNFyIQfPc8eE_2M1if2RAEjVrmcKsNKS4N_zx9mk?width=1070&height=276&cropmode=none)
 
 		- e-commerce sales incrase 144% during pandemic
 
@@ -422,11 +428,11 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 	- compensation
 
 		- compensation breakdown has almost not changed since 2013 :+1:
-![Compensation Breakdown](images/NEOCompensationBreakdown.JPG)
+![Compensation Breakdown](https://dsm01pap006files.storage.live.com/y4mZ35kkE-_n1C5jJnNdg8l8RQp45r1NZCClhgghy44AWHd9419Qv1ULvEW3AqWvPA3n_yWxOq_Q8n3usyeH5mELbsH9iAe0u---bU1peIzYh-XpkwIQLSGPfd5ek4O-FA3F4dIGUt17FQKATCxNmnlqHm5yVzwlpZSVtksq84kLaatCQPbf0gHj4wwtUYTJ0sH?width=925&height=280&cropmode=none)
 
 	- peer group comparison 2021 - compensation seems reasonable :+1:
-![Peer Group](images/PeerGroup.JPG)
-![Compensation Comparison](images/CompensationComp.JPG)
+![Peer Group](https://dsm01pap006files.storage.live.com/y4mt0DENgDMTYqvTL4B-JYOyJ3H0Zspsj-vrlOgRcynNX6g7j-5yAb6QJ08k22kt8CguCkStQhqUs9tznmN0juqXvtGizJD2OjfZXFwhniT1TG4x0bHbO-donn5sWcMKk1KjlQfHCwTc_xcF03nCfcfhK-QhUeUDUCGA6iabin3u2k9s2HbMuTNcpoAFW7nQAeT?width=972&height=157&cropmode=none)
+![Compensation Comparison](https://dsm01pap006files.storage.live.com/y4mBUfOQePirNgl344Sd52ik8aPHALy7pMNbi9Hy9VT4da9rkTtjXawqSISH7ej-Bzp00FKzh66y-MNt-xQjheUjonv_kr_h8Dj-7z7jfFoV6X3ztNWQwfSeRVA9-pITtJULfuLfFZFGIA9zaIDiAM31pX9yTO9J3HEqeJsZKwhZ_-m9-XtPH1KYUJCgU6e96h2?width=572&height=109&cropmode=none)
 
 [Back to Table of contents](#table-of-contents)
 
@@ -463,7 +469,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 	- other than that, nothing out of the ordinary
 
 - Major Shareholders  <a name="major-shareholders"></a> 
-![Major Shareholders](images/MajorShareholders.jpg)
+![Major Shareholders](https://dsm01pap006files.storage.live.com/y4mnM1m53vOixSwUN-qRKEj4KlbVjDsZO3tdBSY2kjli4JbeAr8tlwdddHh5TwyUDAEhP3cTTgcn5HfT0JhHINQb4VrcZt39-SADUob6dn2hra-Q_r1H2S6SfoZeSNs3yZ-UcCJW7GhynaBue0Yj-LtQEe8CR4HKgAR6OU19mGHIdO9DcUAr2fluXxthbPwbFo8?width=723&height=265&cropmode=none)
 	
 [Back to Table of contents](#table-of-contents)
 
