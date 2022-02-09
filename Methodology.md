@@ -1,4 +1,4 @@
-# Investment Methodology
+# Research and Analysis Methodology
 <a name="table-of-contents"></a>
 
 ## Table of Contents
@@ -9,6 +9,7 @@
 	1. [Analysis of stock](#stock-analysis)
 		1. [Stage 1 Analysis](#analysis-stage-one)
 		1. [Stage 2 Analysis](#analysis-stage-two)
+		1. [Form an Opinion and Document](#document)
 
 ## Principles <a name="principles"></a>
 
@@ -20,7 +21,7 @@
 
 1. We <b>CAN</b> only be prepared by identifying good ideas and buying when the opportunities arise.
 
-1. Sell only if there is something better or the holding is <b>riculously</b> overvalued.
+1. Sell <b>ONLY</b> IF there is something better or the holding is <b>riculously</b> overvalued.
 
 1. Macroeconomic conditions & forecast are only taken into consideration as far as how it would affect the business of interest and its outlook.
 
@@ -86,7 +87,10 @@
 			- Barriers to entry
 
 	1. Identify Risk Factors
+
 		1. read Item 1A and any other risk factors along the way
+<br>
+<br>
 
 	1. Valuation
 
@@ -94,7 +98,7 @@
 
 		1. Review quarterly calls
 
-		1. Review any materials relevant to economic outlook of industry
+		1. Review any materials relevant to economic outlook of industry (i.e consumer reports)
 
 		1. Forecast upcoming cash flows and complete a DCF evaluation
 
@@ -130,5 +134,6 @@
 
 			2. Peer Comparison
 
-1. Form an opinion and document
+1. Form an opinion and document <a name="document"></a>
+
 
