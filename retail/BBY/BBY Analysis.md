@@ -6,6 +6,8 @@ We believe BBY will remain a strong retailer in the consumer electronics market 
 
 In the past decade, BBY's has adapted to the e-commerce world where many of their brick-and-mortar competitors have failed. Through innovation and excellent capital management, BBY has been able to create sustainable growth, while steadily rewarding shareholders via a sensible buyback and dividend policy. 
 
+Our target price is based a slightly higher cost of capital to mitigate risks involving BBY's narrow moat and economic uncertainty regarding consumer spending.
+
 - <b>Buy at $86.35 (based on 7.5% cost of capital)</b>
 ![DCF](https://dsm01pap006files.storage.live.com/y4mCEv6nFIJF5_BR4t_KDRvsImgOboCLtya54MJ4NFyY91XBydrXLGcQketvfw0rRV7WlofLBIhNL7MK4qZlzAYABUt7ZmpYfTFcdANH7Q_MvPiH5OkzpnAOnOWRHEF8yF03uPHni6ojwN_a0rbm6bfGiEtZjUyEJ--k19yl0g2Zct4ZKUekGvbbaKgxyhB1o-u?width=1265&height=334&cropmode=none)
 
@@ -241,8 +243,6 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 	- Best buy also has a BNPL option credit
 
 		- partnership with Fairstone
-<br>
-<br>
 
 	- increase trend of customers using financing (company branded cards) provided by third-party banks.
 
@@ -390,12 +390,18 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 
 <br>
 
-- Debt Management <a name="balance-sheet-analysis"></a>
+- Debt Management <a name="balance-sheet-analysis"></a> :+1:
 
 	- interest coverage of approx 44-84 :+1:
 
-	- they have almost net zero debt :+1:
+	- in the past decade they have been reducing their relative debt
+
+	- they were cash positive in 2021
+
+	- current - 
 		- historically low at 140M
+
+![Debt Trend](https://dsm01pap006files.storage.live.com/y4mcEBzksWohSug0fm69ruEcoRcQho2eKpn6sPZQGowpWE3ESvEKvByy-vEelobl_uPc_vO948CT6NhezN3z4IzzuT9fIuXBv1wNutCtWSwd-I11ynM1cDdCF5v43JqB6EwbUX3MSM9ICUfxcz34GGNvULWKOpNUS89FDbjmeIb4QDU1nxnainU2IHUS2PP6Pgt?width=1126&height=153&cropmode=none)
 
 
 - Executive Officers <a name="executive-officers"></a>
