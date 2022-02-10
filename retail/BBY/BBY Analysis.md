@@ -399,11 +399,15 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 	- they were cash positive in 2021
 
 	- current - 
-		- historically low at 140M
-
+		- historically low at 140M :+1:
 ![Debt Trend](https://dsm01pap006files.storage.live.com/y4mcEBzksWohSug0fm69ruEcoRcQho2eKpn6sPZQGowpWE3ESvEKvByy-vEelobl_uPc_vO948CT6NhezN3z4IzzuT9fIuXBv1wNutCtWSwd-I11ynM1cDdCF5v43JqB6EwbUX3MSM9ICUfxcz34GGNvULWKOpNUS89FDbjmeIb4QDU1nxnainU2IHUS2PP6Pgt?width=1126&height=153&cropmode=none)
 
+	- they have a little net debt now after doing buybacks and increasing inventory but historically low :+1:
 
+	- comparison with some competitors they are in the middle :+1:
+![Debt Comp](https://dsm01pap006files.storage.live.com/y4mGdySYvXG1TCtWUFYmL1m8IKSEMnHBvY6SFyL9-HZUS5qtfE0w8Yt5JYMGdE9GL54Q7E8tAYHzHHQr-OGOohx1qum9t2ya0Qq8SUKgIckP5HsLlFHnfJr3dqYErqSwXXVgd9TplpGVtdFTQMaDmpNbdHIqt-PRQr9GEjiYxWuIXrChI5UYqRZ7MkuofHXFEIy?width=700&height=68&cropmode=none)
+<br>
+<br>
 - Executive Officers <a name="executive-officers"></a>
 
 	- continuity :+1:
