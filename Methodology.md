@@ -49,6 +49,8 @@
 
 1. Sort results by most favorable return on reinvestment
 
+1. Then Sort results by signs of growth
+
 
 ### Analyze each stock <a name="stock-analysis"></a>
 
