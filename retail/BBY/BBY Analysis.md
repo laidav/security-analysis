@@ -8,8 +8,8 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 
 Our target price is based a slightly higher cost of capital to mitigate risks involving BBY's narrow moat and economic uncertainty regarding consumer spending.
 
-- <b>Buy at $86.35 (based on 7.5% cost of capital)</b>
-![DCF](https://dsm01pap006files.storage.live.com/y4mCEv6nFIJF5_BR4t_KDRvsImgOboCLtya54MJ4NFyY91XBydrXLGcQketvfw0rRV7WlofLBIhNL7MK4qZlzAYABUt7ZmpYfTFcdANH7Q_MvPiH5OkzpnAOnOWRHEF8yF03uPHni6ojwN_a0rbm6bfGiEtZjUyEJ--k19yl0g2Zct4ZKUekGvbbaKgxyhB1o-u?width=1265&height=334&cropmode=none)
+- <b>Buy at $85.42 (based on 7.5% cost of capital)</b>
+![DCF](https://dsm01pap006files.storage.live.com/y4mHWfkV5fOfjV2-0A6YdaZ85dTq9la65xJEwNUGftVtUWCWxtI1_PIh2m5L6sZ4OO2TWtd5fgXa8mwDpzw9aef2JhmN-Pm-i-XQ_FpIlkeW2BUd7Ck1dGjTwVXx__FSxTqNFfxldv1rh-9qyYyUvTTcIMQX-Kb03KThDSZ0gVQTzRXZpOCnbwwS-lqgXv4at8I?width=1010&height=278&cropmode=none)
 
 ## Table of Contents <a name="table-of-contents"></a>
 
@@ -32,6 +32,7 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 	1. [Insider Actions](#insider-actions)
 	1. [Major Shareholders](#major-shareholders)
 	1. [Extra Articles](#extra-articles)
+	1. [Updates](#updates)
 
 ## Business Overview <a name="business-overview"></a>
 
@@ -295,7 +296,7 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 ## Valuation <a name="valuation"></a>
 
-- DCF - <b>$86.35</b> target price based on a 7.5% cost of equity
+- DCF - <b>$85.42</b> target price based on a 7.5% cost of equity
 
 ![DCF](https://dsm01pap006files.storage.live.com/y4mCEv6nFIJF5_BR4t_KDRvsImgOboCLtya54MJ4NFyY91XBydrXLGcQketvfw0rRV7WlofLBIhNL7MK4qZlzAYABUt7ZmpYfTFcdANH7Q_MvPiH5OkzpnAOnOWRHEF8yF03uPHni6ojwN_a0rbm6bfGiEtZjUyEJ--k19yl0g2Zct4ZKUekGvbbaKgxyhB1o-u?width=1265&height=334&cropmode=none)
 
@@ -391,6 +392,10 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 <br>
 
 - Debt Management <a name="balance-sheet-analysis"></a> :+1:
+	
+	- 2022-05-12 update interest coverage by FCF 100+ :+1:
+
+		- net debt to fcf 0.17 :+1:
 
 	- interest coverage of approx 44-84 :+1:
 
@@ -498,4 +503,18 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 	- https://www.traqline.com/newsroom/blog/head-to-head-to-head-walmart-vs-best-buy-vs-amazon-2020/
 
 [table of contents](#table-of-contents)
+
+## Updates <a name="updates"></a>
+
+- 2022-05-22
+
+	- Updated DCF with latest annual report (updated in recommendations)
+
+	- Balance sheet analysis (updated in section)
+
+		- good net debt to FCF coverage 0.17
+	
+		- even better interest coverage 100+ :+1:
+
+	- last earnings call (2022 Q4)
 
