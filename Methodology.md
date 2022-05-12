@@ -37,19 +37,15 @@
 
 ### Screening <a name="screening"></a>
 
-1. Start with a stock screener
-	- Filters
-		- mid to large cap 
+1. Find a company that sounds interesting via stock screener or other sources
 
-		- double digit ROI
+1. check balance sheet with debt screener , eliminate results with a large debt to EBITDA ratio
 
-1. eliminate results with a large debt to EBITDA ratio
+1. Import financials 
 
-1. Import financials from remaining stocks into excel
+1. Cursory assesement on return on reinvestment
 
-1. Sort results by most favorable return on reinvestment
-
-1. Then Sort results by signs of growth
+1. Cursory assessment of growth potential/economic moat
 
 
 ### Analyze each stock <a name="stock-analysis"></a>

@@ -517,4 +517,26 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 		- even better interest coverage 100+ :+1:
 
 	- last earnings call (2022 Q4)
+		
+		- Q4 enterprise comp sales down?
+			
+			- inventory constraints & reduced store hours due to covid omircron call out
+
+		- total tech
+
+			- reset on lower gross profit
+
+			- need to increase volume to replace old legacy
+
+			- total tech is a drag right now
+
+		- outlook
+
+			- -1% - 4% revenue drop
+
+			- 20-30 store closures
+
+			- lower operating income pressure, near term pressure, drive longer term growth 
+
+			- capex 1.1B
 
