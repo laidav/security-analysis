@@ -9,7 +9,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 Our target price is based a slightly higher cost of capital to mitigate risks involving BBY's narrow moat and economic uncertainty regarding consumer spending.
 
 - <b>Buy at $85.42 (based on 7.5% cost of capital)</b>
-![DCF](https://dsm01pap006files.storage.live.com/y4mHWfkV5fOfjV2-0A6YdaZ85dTq9la65xJEwNUGftVtUWCWxtI1_PIh2m5L6sZ4OO2TWtd5fgXa8mwDpzw9aef2JhmN-Pm-i-XQ_FpIlkeW2BUd7Ck1dGjTwVXx__FSxTqNFfxldv1rh-9qyYyUvTTcIMQX-Kb03KThDSZ0gVQTzRXZpOCnbwwS-lqgXv4at8I?width=1010&height=278&cropmode=none)
+![DCF](https://dsm01pap006files.storage.live.com/y4mWLXlWLKZHF9onxMOGgccIcd6Tx3yMmDMknbMEIRITwsGwPq8F6Y5xVPPs6DQlfhpv06M3T2vKBYhqsQkAmo_LXAJs-IC6o_snqZJKmXqAPfVZxp9akSQ7YGUuXU2JF_1wKiDJ8cGHw4Rluay8E03x7FWgt7pktz6hb2kJ3w8JzH-Rz5_Q2PuzHdy6t7cisIZ?width=1011&height=425&cropmode=none)
 
 ## Table of Contents <a name="table-of-contents"></a>
 
@@ -528,7 +528,13 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 			- need to increase volume to replace old legacy
 
-			- total tech is a drag right now
+			- total tech is a drag right now on operating margin
+	
+			- Total tech % of revenue?
+
+
+		- hows bestbuy health doing?
+
 
 		- outlook
 
@@ -539,4 +545,15 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 			- lower operating income pressure, near term pressure, drive longer term growth 
 
 			- capex 1.1B
+
+			- 49.3 - 50 B in FY23
+
+			- FY25 target 53.5B - 56.5B (we made 49.6B in our DCF)
+
+				- category expansion and best buy health
+
+				- total tech and store remodels
+	
+				- Industry Growth
+
 
