@@ -350,6 +350,9 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 		- closed most of their mobile stand alone siting high costs and low revenues :+1: 
 
+	- 2019 - approx 700M investment in GreatCall
+		- healthcare services
+
 
 	- 2018 - 2021
 
@@ -510,6 +513,28 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 - 2022-05-22
 
+- Synopsis
+
+	- total tech a margin pressure
+
+		- consumer reviews mixed
+
+	- services overall came back with strong comp growth after shutdowns
+
+	- ambitious revenue goals of $53B by 2025
+
+		- we are maintaining more conservative estimates (see DCF Analysis)
+
+	- they are investing acquiring into healthcare
+
+		- 2019 greatcall approx 700-800M
+
+		- and now current health approx 400M
+
+
+
+- Anaylsis
+
 	- Updated DCF with latest annual report (updated in recommendations)
 
 	- Balance sheet analysis (updated in section)
@@ -575,5 +600,13 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 		- Current Health
 
 		- Yard bird 
+
+		
+
+	- Services 
+
+		- took a hit in FY2021 (2020)
+
+		- made a strong rebound in FY2022
 
 
