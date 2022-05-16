@@ -60,10 +60,12 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 - Revenue Mix
 
 	- Domestic
+![Domestic Revenue Mix 2022](https://dsm01pap006files.storage.live.com/y4maYZbzqNJHmeoFm9uW4KglKKWvBH8Ut1WkPqsdGPE4YXCLPwnlKNghGc616QePG1luQIfoMQ9xf2ipjDZdUAaqLkyMRD0dEKsxcmOWiKIhFsO5l-pE5XCvX735Wbs9yIYqsxBiN3INsc3mw-1o6K1_mgYeUl6vkYs-vCoBR201UOLc4iCvEsyvxQm2ijfT5WS?width=1610&height=186&cropmode=none)
 ![Domestic Revenue Mix](https://dsm01pap006files.storage.live.com/y4metKGU2TXyamx_L95_FZuF6HCQutdENXQthyXb9HnIHBG90LTDy7iuzuWD9zaMPQV4FS969eyR7cQpoNHHZcvakUl0kZbBeURO_mtwz58x5F-MOWhL50gDj0FvAZuOOplG7Rpl_SgJf85wbR514UYgdlJZoU3qVM1aUkWNTnwjwfb_B6_i4w26QXYAY-b2ZQA?width=1233&height=222&cropmode=none)
 
 	- International <br>
 ![International Revenue Mix](https://dsm01pap006files.storage.live.com/y4msoVIAtJJgsPA8qTnX9Egb0KHlubnd708Ke1WR7F_3AAbnt2VOGVUdE0SdIpojYU7ui3uaE_7VcnT4tiARtUjI9WStpn12wQAJTITycL8CdsBvriOED3kdYoFj-5f9JbOx6KV7p-7Q3GyslbzxluBstEflrSteV35uHauid1TRHtcw0ZyMBvCzcu5mNvrVysi?width=606&height=122&cropmode=none)
+![International Revenue Mix 2022](https://dsm01pap006files.storage.live.com/y4mwBnZTRvfZGwPNIoTKcyPG9OaBd6naalpt29WUuraHOxaDJd4Au5cBJfjvMltO0zHXnyIAxvEjKmZOmUWkBz5cS2hixGmAPatCGmrL-MHtS4fjY2wOxsaJWa11BOnh4yGyQMhIXBP9isC78BB07MkIqPVZ0ofonM07g3-UI29Hjwb8xuBpHt7iwoJv-mPeycO?width=1611&height=227&cropmode=none)
 
 	- not suprisingly heavy on the electronic hardware :thinking:
 
@@ -529,8 +531,20 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 			- need to increase volume to replace old legacy
 
 			- total tech is a drag right now on operating margin
+
+				- watched youtube reviews and comments
+
+				- mixed reviews
+
+				- $200 per year, pretty pricy
 	
 			- Total tech % of revenue?
+
+				- not available
+
+			- seems to be a drag on their margins currently :-1:
+
+			- https://www.youtube.com/watch?v=3ebbunJ7_g0  this youtuber went with it - not sure yet though :thinking:
 
 
 		- hows bestbuy health doing?
@@ -555,5 +569,11 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 				- total tech and store remodels
 	
 				- Industry Growth
+
+	- Aquisitions
+
+		- Current Health
+
+		- Yard bird 
 
 
