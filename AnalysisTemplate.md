@@ -37,6 +37,7 @@
 [Back to Table of contents](#table-of-contents)
 
 ## Industry Analysis <a name="industry-analysis"></a>
+## Competitive Analysis <a name="competitive-analysis"></a>
 ## Risks <a name="risks"></a>
 ## Valuation <a name="valuation"></a>
 ## Management Analysis <a name="management-analysis"></a>
