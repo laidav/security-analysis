@@ -9,7 +9,7 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 Our target price is based a slightly higher cost of capital to mitigate risks involving BBY's narrow moat and economic uncertainty regarding consumer spending.
 
 - updated 2022-05-29
-![DCF](https://dsm01pap006files.storage.live.com/y4mzQbWCkDByzbXsDtgOxyMlcN3sFOs6dcD3k3Bu0r44c9CjkLJPxjtXcrT7e4wRyNxIO2cYaDqaOZPxRbaTuGGEHElWRXkmp2xR8FdfhSsgfSotdjvMs3cPJiqu1pY-qJXlzUcygpHgj12mkbnSSp6ySjsxBaWhtOP1cuZNzdxE5m-WghsYBFmSft0pswof-ga?width=1266&height=451&cropmode=none)
+![DCF](https://dsm01pap006files.storage.live.com/y4mdI_gm-tgNm5WzUsllOmEBMe5lFAB5qo2iFcAA5jIY7oCVIizbpXu9CSbnl7rigps0ZJzF7cBMlxKoblMerPf7lR41SnAi4rRYRdcBNOQxAOSZWHafzK9uEUU65VPiw9rk7idoxoCgkFvN18N-dOEIXCOMtFo7_nTREY_LrIhYzZOHXDf4mc20IATaDZXkR_x?width=1024&height=460&cropmode=none)
 
 ## Table of Contents <a name="table-of-contents"></a>
 
@@ -300,7 +300,7 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 
 - updated 2022-05-29
-![DCF](https://dsm01pap006files.storage.live.com/y4mzQbWCkDByzbXsDtgOxyMlcN3sFOs6dcD3k3Bu0r44c9CjkLJPxjtXcrT7e4wRyNxIO2cYaDqaOZPxRbaTuGGEHElWRXkmp2xR8FdfhSsgfSotdjvMs3cPJiqu1pY-qJXlzUcygpHgj12mkbnSSp6ySjsxBaWhtOP1cuZNzdxE5m-WghsYBFmSft0pswof-ga?width=1266&height=451&cropmode=none)
+![DCF](https://dsm01pap006files.storage.live.com/y4mdI_gm-tgNm5WzUsllOmEBMe5lFAB5qo2iFcAA5jIY7oCVIizbpXu9CSbnl7rigps0ZJzF7cBMlxKoblMerPf7lR41SnAi4rRYRdcBNOQxAOSZWHafzK9uEUU65VPiw9rk7idoxoCgkFvN18N-dOEIXCOMtFo7_nTREY_LrIhYzZOHXDf4mc20IATaDZXkR_x?width=1024&height=460&cropmode=none)
 
 
 - higher cost of equity 7.5% (as opposed to our 6% minimum) chosen to offset BBY's narrow moat and existing risk factors.
