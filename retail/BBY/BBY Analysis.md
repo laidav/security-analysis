@@ -517,10 +517,57 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 		- negative cash flow for the quarter
 
-		- accounts payable
+		- ACCOUNTS PAYABLE decrease
 
 		- revised DCF
 
+	- promitional pressure & inflation costs
+
+	- computing and home theatre main sale decline drivers
+
+	- in home consultation and installation significant increase
+
+	- inflation
+
+		- labour, marketing & supply chain
+
+	- sales mix, customer shift to premium products and higher price points
+
+	- passing some cost to customers
+
+	- opening more outlet stores
+
+	- 45 store remodels
+
+	- category expansion
+
+		- electric skooters and bikes
+
+	- they say strong growth in health
+
+	- total tech question about what featuers are resonating?
+
+		- non answer, just say its broad amongst different demographics?
+
+		- no current answer to retention vs churn
+
+	- they talk about credit card offsetting some of the declines
+
+	- more promotions in tv and computer
+
+	- they expect promotion to return more to FY 2020 (2019) in this year
+
+	- late half should be better, effect of stimulus will be off, more availability in product, no store closure from covid hopefully
+
+	- will the re evaluate 2025 guide
+
+		- reccession question
+
+			- consumer electronic is very stable says CEO
+
+			- at this point BBY is not forecasting a recession, just softer demand
+
+	- total tech pressure projected cadance to go to zero in Q3 or Q4
 
 - 2022-05-22 (earnings call 2022Q4)
 
