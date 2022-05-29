@@ -8,8 +8,8 @@ In the past decade, BBY's has adapted to the e-commerce world where many of thei
 
 Our target price is based a slightly higher cost of capital to mitigate risks involving BBY's narrow moat and economic uncertainty regarding consumer spending.
 
-- <b>Buy at $85.42 (based on 7.5% cost of capital)</b>
-![DCF](https://dsm01pap006files.storage.live.com/y4mWLXlWLKZHF9onxMOGgccIcd6Tx3yMmDMknbMEIRITwsGwPq8F6Y5xVPPs6DQlfhpv06M3T2vKBYhqsQkAmo_LXAJs-IC6o_snqZJKmXqAPfVZxp9akSQ7YGUuXU2JF_1wKiDJ8cGHw4Rluay8E03x7FWgt7pktz6hb2kJ3w8JzH-Rz5_Q2PuzHdy6t7cisIZ?width=1011&height=425&cropmode=none)
+- updated 2022-05-29
+![DCF](https://dsm01pap006files.storage.live.com/y4mzQbWCkDByzbXsDtgOxyMlcN3sFOs6dcD3k3Bu0r44c9CjkLJPxjtXcrT7e4wRyNxIO2cYaDqaOZPxRbaTuGGEHElWRXkmp2xR8FdfhSsgfSotdjvMs3cPJiqu1pY-qJXlzUcygpHgj12mkbnSSp6ySjsxBaWhtOP1cuZNzdxE5m-WghsYBFmSft0pswof-ga?width=1266&height=451&cropmode=none)
 
 ## Table of Contents <a name="table-of-contents"></a>
 
@@ -298,9 +298,9 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 ## Valuation <a name="valuation"></a>
 
-- DCF - <b>$85.42</b> target price based on a 7.5% cost of equity
 
-![DCF](https://dsm01pap006files.storage.live.com/y4mCEv6nFIJF5_BR4t_KDRvsImgOboCLtya54MJ4NFyY91XBydrXLGcQketvfw0rRV7WlofLBIhNL7MK4qZlzAYABUt7ZmpYfTFcdANH7Q_MvPiH5OkzpnAOnOWRHEF8yF03uPHni6ojwN_a0rbm6bfGiEtZjUyEJ--k19yl0g2Zct4ZKUekGvbbaKgxyhB1o-u?width=1265&height=334&cropmode=none)
+- updated 2022-05-29
+![DCF](https://dsm01pap006files.storage.live.com/y4mzQbWCkDByzbXsDtgOxyMlcN3sFOs6dcD3k3Bu0r44c9CjkLJPxjtXcrT7e4wRyNxIO2cYaDqaOZPxRbaTuGGEHElWRXkmp2xR8FdfhSsgfSotdjvMs3cPJiqu1pY-qJXlzUcygpHgj12mkbnSSp6ySjsxBaWhtOP1cuZNzdxE5m-WghsYBFmSft0pswof-ga?width=1266&height=451&cropmode=none)
 
 
 - higher cost of equity 7.5% (as opposed to our 6% minimum) chosen to offset BBY's narrow moat and existing risk factors.
@@ -511,7 +511,18 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 ## Updates <a name="updates"></a>
 
-- 2022-05-22
+- 2022-05-29 (earnings call 2023Q1)
+	
+	- risk :-1: cash is DOWN
+
+		- negative cash flow for the quarter
+
+		- accounts payable
+
+		- revised DCF
+
+
+- 2022-05-22 (earnings call 2022Q4)
 
 - Synopsis
 
@@ -530,8 +541,6 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 		- 2019 greatcall approx 700-800M
 
 		- and now current health approx 400M
-
-
 
 - Anaylsis
 
