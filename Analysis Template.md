@@ -2,7 +2,7 @@
 
 ## Summary and Recommendation
 
-![DCF](https://dsm01pap006files.storage.live.com/y4mCEv6nFIJF5_BR4t_KDRvsImgOboCLtya54MJ4NFyY91XBydrXLGcQketvfw0rRV7WlofLBIhNL7MK4qZlzAYABUt7ZmpYfTFcdANH7Q_MvPiH5OkzpnAOnOWRHEF8yF03uPHni6ojwN_a0rbm6bfGiEtZjUyEJ--k19yl0g2Zct4ZKUekGvbbaKgxyhB1o-u?width=1265&height=334&cropmode=none)
+![DCF](https://dsm01pap006files.storage.live.com/y4mzQbWCkDByzbXsDtgOxyMlcN3sFOs6dcD3k3Bu0r44c9CjkLJPxjtXcrT7e4wRyNxIO2cYaDqaOZPxRbaTuGGEHElWRXkmp2xR8FdfhSsgfSotdjvMs3cPJiqu1pY-qJXlzUcygpHgj12mkbnSSp6ySjsxBaWhtOP1cuZNzdxE5m-WghsYBFmSft0pswof-ga?width=1266&height=451&cropmode=none)
 
 ## Table of Contents <a name="table-of-contents"></a>
 
@@ -15,6 +15,9 @@
 1. [Valuation](#valuation)
 1. [Management Analysis](#management-analysis)
 	1. [Reinvestment Returns](#reinvestment-returns)
+		1. [Capex](#capex)
+		1. [Working Capital](#working-capital)
+		1. [Acquisitions](#acquisitions)
 	1. [Cash Returned to Shareholders](#cash-returned-to-shareholders)
 		1. [Buybacks](#buybacks)
 		1. [Dividends](#dividends)
@@ -31,40 +34,61 @@
 ## Business Overview <a name="business-overview"></a>
 
 - *Business Segments*<a name="business-segments"></a>
+	
 
 - *History* <a name="business-history"></a>
 
 [Back to Table of contents](#table-of-contents)
 
 ## Industry Analysis <a name="industry-analysis"></a>
+
+
 ## Competitive Analysis <a name="competitive-analysis"></a>
+
 ## Risks <a name="risks"></a>
+
 ## Valuation <a name="valuation"></a>
+
 ## Management Analysis <a name="management-analysis"></a>
 
 - *Reinvestment returns* <a name="reinvestment-returns"></a>
+![Reinvestment Returns](https://dsm01pap006files.storage.live.com/y4m3PK84W1u6d8GgrHat1Bm9VBRqEmpF2xsTcXWXjSrV_ZmZXBZQQvr7yiV5icj8uLRjIUHw-QwJyLgj8I4FW2o-YfMtk0wRaHGKKEfP0HkK9W8j5NJriFOGc6t8Mgx3ldPwOGcxI7f7RPvDbbinhYP-CAhfAgPg7aWtznNqgItaGU4XiRSc0Z7akpkyyFTNrMQ?width=1366&height=217&cropmode=none)
+	- *Capex* <a name="capex"></a>
+
+	- *Working Capital* <a name="working-capital"></a>
+
+	- *Acquisitions* <a name="acquisitions"></a>
+
 
 - *Cash returned to Shareholders* <a name="cash-returned-to-shareholders"></a>
 
 	- *Buybacks* <a name="buybacks"></a>
 
 	- *Dividends* <a name="dividends"></a>
-
 <br>
 
 - *Debt Management* <a name="balance-sheet-analysis"></a>
 
+	- interest coverage
+
+	- FCF coverage on net debt
+
+	- maturities
+
 - *Executive Officers* <a name="executive-officers"></a>
 
-	- *Continuity* <a name="continuity"></a>
+	- *Continuity* <a name="continuity"></a> :+1:
+
 
 	- *Compensation* <a name="compensation"></a>
 
 ## Other Due Dilligence <a name="due-dilligence"></a>
 - *Resilience*  <a name="resilience"></a>
+
+
 - *Insider Actions*  <a name="insider-actions"></a>
 
-- *Extra Articles* <a name="extra-articles"></a> 
 
-[table of contents](#table-of-contents)
+- *Extra Articles* <a name="extra-articles"></a> 
+	[table of contents](#table-of-contents)
 
