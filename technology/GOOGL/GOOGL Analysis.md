@@ -8,7 +8,7 @@
 	- However their revenue is almost all based on advertising. Investments into their other business, namely cloud where they are fighting an uphill battle with Microsoft and AWS, may not be successful or generate the desired returns.
 CHARTS (See excel charts sheet)
 
-	- Some of their advertising share is also being threated by AMZN PPC ads and online video ads are being challenged by other "shorts" video platforms, i.e
+	- Some of their advertising share is also being threated by AMZN PPC ads and online video ads are being challenged by other "shorts" video platforms, i.e TikTok
 
 ![DCF](https://dsm01pap006files.storage.live.com/y4mClEU9ZqNvuWRvAIIYqj6IL53-F5Mzd5KVARxwr6uip5lXLNMpi9h21n--gG6W7KTlCakW-yap1bIkWA0C651UTd72Td9HnJnj6iq26WFCFMBZaa7YrDMa2fmQmpPsmB6lv6OycAlpsN-XRtZG13TcKYQ-vOLPdURQBijCkMdxDNvMKW6yM79lJDTdI3B08vW?width=1260&height=456&cropmode=none)
 
