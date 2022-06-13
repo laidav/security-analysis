@@ -50,6 +50,8 @@
 
 ## Industry Analysis <a name="industry-analysis"></a>
 
+- health
+- cyclical?
 - trends
 
 ## Competitive Analysis <a name="competitive-analysis"></a>
