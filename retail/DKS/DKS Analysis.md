@@ -4,7 +4,7 @@
 
 #### Reasons to Invest
 
-- DKS is the largest sports retailer in a highly fragmented US market for the sporting goods industry.  They have diffentiated themselves by offering higher quality premium items. They have cultivated strong relationships with National Brands who are attempting to narrow their sales channel and focus on their D2C business models.
+- DKS is the largest sports retailer in a highly fragmented US market for the sporting goods industry.  They have diffentiated themselves as the leading multi-brand sports retailer by offering higher quality premium items. They have cultivated strong relationships with National Brands who are attempting to narrow their sales channel and focus on their D2C business models.
 
 	- this puts DKS in a strong position against their competitors as they have access to premium items from National Brand partners where and they can acheive higher margins with little promotional pressure.
 
