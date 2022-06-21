@@ -747,6 +747,8 @@ ownership provides inherent flexibility to enable faster time to market
 
 					- hope not as much inventory increase in the back of the year
 
+			- ![inventory results](https://dsm01pap006files.storage.live.com/y4mp9Ud8pQh_h0CRen3SsD5MWa8QoTZ-caMvBqDrOIpgH0FbUkb3rsKZJXpHwuc3qrqvOo3dDrdogbbIyidEvjCkiDV_6JlELyvNna73CRwW-YEiPNVRVmby1dmb0AgIdlC4K_GBCahe2Hc6sR9A5TP9qSdjDRlpHDEZGm4DJ8HKgVqIcN1LYXJlRtWBL_Rs8Q8?width=990&height=843&cropmode=none)
+
 	- *Acquisitions* <a name="acquisitions"></a>
 
 		![Acquisitions](https://dsm01pap006files.storage.live.com/y4mmEoNYQw32udMhKesQO-lJu9YNhGR9LCx4W1rqpx32G6kQvWY8S9TpOMDIOvxylVImGaHPPU-7wRW-F3nFGbpHoEGsodxyEynrfSBKc8lf22JLqX0eG8aoqq8Laql1eZNTdKIsT3Plmpk0u0oiW3-wKhJ_M8Z-h27MkaqS2XVB-QpFNDpdyHUFFX_Wail_Bi4?width=1353&height=68&cropmode=none)

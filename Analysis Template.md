@@ -16,6 +16,7 @@
 	1. [Business Segments](#business-segments)
 		1. [Segment 1](#segment-one)
 		1. [Segment 2](#segment-two)
+	1. [Major Suppliers](#major-suppliers)
 	1. [Major Customers](#major-customers)
 	1. [History](#business-history)
 1. [Industry Analysis](#industry-analysis)
@@ -63,6 +64,7 @@
 
 	- Revenue mix (table/chart)
 
+- *Major Suppliers* <a name="major-suppliers"></a>
 	
 - *Major Customers* <a name="major-customers"></a>
 
