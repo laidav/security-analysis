@@ -11,13 +11,13 @@
 <br>
 
 
-- DKS investments in e-commerce, omni-channel and supply chain has propelled them to #1 spot of multi brand sporting goods retailer where many have fell since 2015. They offer a differentiated shopping expierence.
+- DKS investments in e-commerce, omni-channel and supply chain has propelled them to #1 spot of multi brand sporting goods retailer where many have fell since 2015. They offer a differentiated shopping expierence through their omni channel and specialty stores
 
 - Management continues to maintain the company's financial health which has allowed them to outperform and acquire failed competitors in the past (The sports authority). They have recently secured long-term debt financing to enhance their liquidity in times of uncertainty.
 
 #### Valuation 
 
-	- ![DCF](https://dsm01pap006files.storage.live.com/y4mnp1KjokJ2KEWz5pQ_cJYoPhe6zULFldFTb11Gp7ZxLHGRYYMV2XIO8jReyNA7b3pC_youHvCuTAr-Vvq2mC4nZ7pWehYqsWm2KFCch53ulYrH2gktYi9SQ2rb6FV-15cGaQ4LyJugL0pJtVQrWb618YFdJxQVb6qPIzZJlAuxFrNTdSrKTafa4grWnlTtUDj?width=1355&height=276&cropmode=none)
+![DCF](https://dsm01pap006files.storage.live.com/y4mnp1KjokJ2KEWz5pQ_cJYoPhe6zULFldFTb11Gp7ZxLHGRYYMV2XIO8jReyNA7b3pC_youHvCuTAr-Vvq2mC4nZ7pWehYqsWm2KFCch53ulYrH2gktYi9SQ2rb6FV-15cGaQ4LyJugL0pJtVQrWb618YFdJxQVb6qPIzZJlAuxFrNTdSrKTafa4grWnlTtUDj?width=1355&height=276&cropmode=none)
 
 #### Risks
 
