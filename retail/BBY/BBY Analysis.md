@@ -1,42 +1,116 @@
-# Best Buy (BBY)
+# Company (TICKER)
 
 ## Summary and Recommendation
 
-We believe BBY will remain a strong retailer in the consumer electronics market in the foreseeable future. It has a narrow economic moat - however this is offset by a track record of exceptional management.
+#### Reasons to Invest
 
-In the past decade, BBY's has adapted to the e-commerce world where many of their brick-and-mortar competitors have failed. Through innovation and excellent capital management, BBY has been able to create sustainable growth, while steadily rewarding shareholders via a sensible buyback and dividend policy. 
+- Best Buy is the 2nd largest consumer electronics (behind AMZN) retailer and have developed a successful omni-channel and price matching strategy in the consumer electronics industry. This will provides them with superior profitability over their largest competitor AMZN.
 
-Our target price is based a slightly higher cost of capital to mitigate risks involving BBY's narrow moat and economic uncertainty regarding consumer spending.
+	- Best buy stores act as distribution points for their customers whether they want to have delivery or do instore pick up. This makes BBY much more profitable than AZMN single online/delivery channel
 
-- updated 2022-05-29
-![DCF](https://dsm01pap006files.storage.live.com/y4mdI_gm-tgNm5WzUsllOmEBMe5lFAB5qo2iFcAA5jIY7oCVIizbpXu9CSbnl7rigps0ZJzF7cBMlxKoblMerPf7lR41SnAi4rRYRdcBNOQxAOSZWHafzK9uEUU65VPiw9rk7idoxoCgkFvN18N-dOEIXCOMtFo7_nTREY_LrIhYzZOHXDf4mc20IATaDZXkR_x?width=1024&height=460&cropmode=none)
+	- Best buy prices matches so competitors won't be able to use pricing to steal customers
+
+- Their store within a store concept cultivated strong relationship with vendors, allowing them to provide premium products and superior customer expierence compared to their competitors in the big-box retail arena.
+
+	- BBY diffentiate themselves by focusing on service vs selling products. They focus on customer experience and making BBY the best place for manufactuerers want to be to showcase their products. 
+
+<br>
+
+- Mangement has done an excellent job maintaining the companies financial health and shareholders have been rewarded steadily through sensible dividend and buyback policies
+
+#### Valuation 
+
+![DCF](https://dsm01pap006files.storage.live.com/y4mHVAA-vBHCDyP4FWSoO0xibqqjg56o5u5Qv2HIxGU-T5KkGHt-wTIb4_CQFA-UftQD6opZqianqLhxCiziVwaKP2y8Dfb6F1hQHresaBo6Aaa0MvXSlc5UZvMO_pFG5MpDo0hB9DP6BhJYCcYNicwUgy-jjmVVD9_Bpnw2UD9DG_h7t58MFtwY2oanZjs3_Ne?width=1352&height=277&cropmode=none) 
+
+
+#### Risks
+
+- slowing of economy due to fed tightening in response to inflation
+
+	- slowdown in consumer spending, esepcially after two years of stimulus
+
+- slowdown on consumer electronics, how much demand was pulled forward by pandemic & work from home
+
+<br>
+
+- new total tech program is putting pressure on margins right now
+
+	- BBY will have to make a successful transition from their legacy loyalty programs
+
+
+<br>
+
 
 ## Table of Contents <a name="table-of-contents"></a>
 
 1. [Business Overview](#business-overview)
 	1. [Business Segments](#business-segments)
+	1. [Major Suppliers](#major-suppliers)
+	1. [Major Customers](#major-customers)
 	1. [History](#business-history)
 1. [Industry Analysis](#industry-analysis)
 1. [Competitive Analysis](#competitive-analysis)
+	1. [Structural Advantages](#structural-advantages)
+	1. [Performance](#performance)
+	1. [Market Share](#marketshare)
+	1. [PEST Analysis](#pest)
+	1. [Porter 5 foces](#porter)
 1. [Risks](#risks)
 1. [Valuation](#valuation)
 1. [Management Analysis](#management-analysis)
 	1. [Reinvestment Returns](#reinvestment-returns)
+		1. [Capex](#capex)
+		1. [Working Capital](#working-capital)
+		1. [Acquisitions](#acquisitions)
+		1. [R & D Analysis/Advertising and reinvestment](#rd-analysis)
 	1. [Cash Returned to Shareholders](#cash-returned-to-shareholders)
 		1. [Buybacks](#buybacks)
 		1. [Dividends](#dividends)
 	1. [Debt and Balance Sheet](#balance-sheet-analysis)
 	1. [Executive Officers](#executive-officers)
+		1. [Continuity](#continuity)
+		1. [Compensation](#compensation)
 1. [Other Due Dilligence](#due-dilligence)
 	1. [Resilience](#resilience)
 	1. [Insider Actions](#insider-actions)
 	1. [Major Shareholders](#major-shareholders)
 	1. [Extra Articles](#extra-articles)
-	1. [Updates](#updates)
+	1. [Earnings Call](#earnings-call)
+		1. [FY2023 Q1](#FY2023Q1)
 
 ## Business Overview <a name="business-overview"></a>
 
-- two business segments <a name="business-segments"></a>
+- mission, vision, values 
+
+	- closest thing I could find on their about page "At Best Buy, our purpose is to enrich lives through technology."
+
+- Stores
+	- Domestic (US) - 991 Stores
+
+	- International (Canada & Mexico) - 168 Stores
+
+	- 2 formats - large and small
+
+	- store within a store model
+
+		- partnerships with various vendors where they set up a store within the best buy store
+<br>
+<br>
+
+- Distribution :+1:
+	- customers can order online and have the product
+
+		- pick up at store
+
+		- curb side pick up at most stores
+
+		- or delivery
+
+	- most stores are leased 
+![Properties](https://dsm01pap006files.storage.live.com/y4mEQq9XVhpO24lzCWUSLjeu1rUUid6Xo4-1pnRY5GrvfQbOpoKbyI1LhetbogAOw6jtepMa-K-16ZRIfeFihkimq6W37tlLAONYZkYRuXyiqrXrVgo0tT0shfL5eNM9Z01S9yxF8EeU9h1DMclGpQQviEmxz2JJrYohuCfhvcNWtTDawXGOnfBYMhGrqa_MzhC?width=1238&height=142&cropmode=none)
+
+
+- *Business Segments*<a name="business-segments"></a>
 
 	- Domestic (US) - 991 Stores
 
@@ -67,93 +141,187 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 ![International Revenue Mix](https://dsm01pap006files.storage.live.com/y4msoVIAtJJgsPA8qTnX9Egb0KHlubnd708Ke1WR7F_3AAbnt2VOGVUdE0SdIpojYU7ui3uaE_7VcnT4tiARtUjI9WStpn12wQAJTITycL8CdsBvriOED3kdYoFj-5f9JbOx6KV7p-7Q3GyslbzxluBstEflrSteV35uHauid1TRHtcw0ZyMBvCzcu5mNvrVysi?width=606&height=122&cropmode=none)
 ![International Revenue Mix 2022](https://dsm01pap006files.storage.live.com/y4mwBnZTRvfZGwPNIoTKcyPG9OaBd6naalpt29WUuraHOxaDJd4Au5cBJfjvMltO0zHXnyIAxvEjKmZOmUWkBz5cS2hixGmAPatCGmrL-MHtS4fjY2wOxsaJWa11BOnh4yGyQMhIXBP9isC78BB07MkIqPVZ0ofonM07g3-UI29Hjwb8xuBpHt7iwoJv-mPeycO?width=1611&height=227&cropmode=none)
 
-	- not suprisingly heavy on the electronic hardware :thinking:
 
-- Distribution :+1:
-	- customers can order online and have the product
-
-		- pick up at store
-
-		- curb side pick up at most stores
-
-		- or delivery
-
-- Suppliers
+- *Major Suppliers* <a name="major-suppliers"></a>
 
 	- Apple, Samsung, HP, LG & Sony represent 57% of merchandise perchased :thinking:
-<br>
-<br>
-
-- Stores
-	- 2 formats - large and small
-
-	- store within a store model
-
-		- partnerships with various vendors where they set up a store within the best buy store
-<br>
-<br>
-
-	- most stores are leased 
-![Properties](https://dsm01pap006files.storage.live.com/y4mEQq9XVhpO24lzCWUSLjeu1rUUid6Xo4-1pnRY5GrvfQbOpoKbyI1LhetbogAOw6jtepMa-K-16ZRIfeFihkimq6W37tlLAONYZkYRuXyiqrXrVgo0tT0shfL5eNM9Z01S9yxF8EeU9h1DMclGpQQviEmxz2JJrYohuCfhvcNWtTDawXGOnfBYMhGrqa_MzhC?width=1238&height=142&cropmode=none)
-
-[Back to Table of contents](#table-of-contents)
-
-### History <a name="business-history"></a>
-
-- 1966 
-
-	- founded in Minnesota as "Sound of Music"
-
-<br>
-
-- 1981 
-	- tornadoe hit and blew off the roof to the most profitable store. 
-
-	- had a "Tornado Sale" where Shulze promised to have "best buys"
-
-	- store did more sales in 4 days than the regular store in a month
-
-- 1983 
-	- company was renamed to Best Buy
-
-- 1985
-	- IPO
-
-<br>
-
-- 1989 (Concept II stores)
-
-	- did away with commissioned sales people creating a more relaxed shopping expierence for the consumer :+1:
-
-	- big name suppliers were upset and stop selling at Best Buy for a period of time but came crawling back after the new model proved very successful :+1:
-
-	- moved more product to sales floor and provided more fasionable fixtured store for a nicer shopping environment
-
-- 2012
-
-	- overall revenue decline
-
-	- implemented a store redesign and introduced "store in a store" concept starting with Pacific Kitchen & Bath and Magnolia Design Center :+1:
-
-	- CEO Brian Dunn resigned over inappropriate relationship :thinking:
-
-- 2010s 
-
-	- online shopping has been eroding sales
 	
-	- began investing more in digital media :+1:
+- *Major Customers* <a name="major-customers"></a>
 
-	- closed mobile stores
+	- elecontronic consumers
 
-	- closed store selling physical music as popularity of streaming music grew :+1:
+
+- *History* <a name="business-history"></a>
+	- 1966 
+
+		- founded in Minnesota as "Sound of Music"
+
+	<br>
+
+	- 1981 
+		- tornadoe hit and blew off the roof to the most profitable store. 
+
+		- had a "Tornado Sale" where Shulze promised to have "best buys"
+
+		- store did more sales in 4 days than the regular store in a month
+
+	- 1983 
+		- company was renamed to Best Buy
+
+	- 1985
+		- IPO
+
+	<br>
+
+	- 1989 (Concept II stores)
+
+		- did away with commissioned sales people creating a more relaxed shopping expierence for the consumer :+1:
+
+		- big name suppliers were upset and stop selling at Best Buy for a period of time but came crawling back after the new model proved very successful :+1:
+
+		- moved more product to sales floor and provided more fasionable fixtured store for a nicer shopping environment
+
+	- 2012
+
+		- overall revenue decline
+
+		- implemented a store redesign and introduced "store in a store" concept starting with Pacific Kitchen & Bath and Magnolia Design Center :+1:
+
+		- CEO Brian Dunn resigned over inappropriate relationship :thinking:
+
+	- 2010s 
+
+		- online shopping has been eroding sales
+		
+		- began investing more in digital media :+1:
+
+		- closed mobile stores
+
+		- closed store selling physical music as popularity of streaming music grew :+1:
+
 
 [Back to Table of contents](#table-of-contents)
 
-## Industry Analysis <a name="industry-analysis"></a> :+1:
+## Industry Analysis <a name="industry-analysis"></a>
+
+- Drivers
+
+	- investopedia in 2020 ??
+
+		- rising demand for smartphones, artificial intelligence, and voice recognition technology, and the replacement cycles and dropping prices of many electronics devices to encourage continued consumption.
+
+		- new innovations
+
+- restraints :-1::-1::-1:
+
+	- macro economic conditions (inflation, covid lock downs in china)
+
+		- DEMAND IS SLOWING :-1: 
+
+		- May 14 2022 [article - Smartphone demand drops 'like a rock', 200 million less handsets this year](https://www.business-standard.com/article/international/smartphone-demand-drops-like-a-rock-200-million-less-handsets-this-year-122051400365_1.html#:~:text=The%20demand%20for%20smartphones%20and,Chinese%20chip%2Dmaker%20has%20warned.)
+
+			- "Chinese smartphone vendors could reduce shipments by 200 million units this year. Many orders (from smartphone makers) were cancelled," he added."
+
+		- Jun 1 2022 [article - Global Smartphone Shipments Expected to Decline 3.5% in 2022, Amidst Global Uncertainty and Weaker Demand, According to IDC] (https://www.idc.com/getdoc.jsp?containerId=prUS49226922)
+
+	- According to statista -
+
+		- [article](https://www.statista.com/outlook/cmo/consumer-electronics/united-states)
+
+			- ![industry overview](https://dsm01pap006files.storage.live.com/y4mpGVMIoqzxERrTC_wYFdNoFlreAtpNYM8c7Bv6Ek-fFEF8C9gnqmR0r4cGWB6up378aUK-hKxNhjLdfSveUnUkimVgJuISf13rQwnfSTmJLAYXA1JVNTQaZdni8_a2kfvEMvjygf7wVoVM4NqCjeMlcb3ky8Hgt00zMSZB0CvbHr2gHLosj3WZZt7lhWLPO7s?width=988&height=406&cropmode=none)
+	
+
+## Competitive Analysis <a name="competitive-analysis"></a>
+
+#### Structural Advantages <a name="structural-advantages"></a>
+
+- they have a vast real estate portfolio to support their omni-channel strategy, allowing them generate superior margins
+
+	-  "1,000 big-box stores, and weÎl within 15 minutes of 70 percent of the U.S. population" - VP of real estate Pat Matre (40 years, retired in 2018)
+
+<br>
+
+- Their stores greatly support their omni channel strategy
+
+	- in Q4 2021 online sales grew 90% and 2/3 of items were picked up in store.
+
+	- their stores also serves as distribution locations for delivery
+
+<br>
+
+- e-commerce
+	- https://ecommercedb.com/en/store/bestbuy.com
+
+	![BBY Online Marketshare](https://dsm01pap006files.storage.live.com/y4mtu5tfYCEttclX0a7mRkHDiLwtCQkKnhsbMsTgJgHljbwc2h11F9-CR898c9_LfiOxAeLEBXkTV6Y6eVYPV8wkQaSD8x9In29o5jXcA-LwNV2BhUcTyfXYpip2mqYDeuRYCuT5kYwrRQSx40DL86mYtqk0OzgFQs5OCWO2qwN_GOnqYLSqYpq6fM3e18w7l7j?width=809&height=509&cropmode=none)
+
+	- ecommerce drove market share gain,  9.6% to 9.8% in consumer electronics
+
+		- https://www.forbes.com/sites/greatspeculations/2021/11/02/best-buy-is-thinking-inside-and-outside-the-retail-box/?sh=40dc427e6220V
+
+<br>
+
+- store within a store
+
+	- BBY has outlasted its previous competitors (Circuit City, Radio Shack) and remain to be the go to retailer for Big Brands to showcase their products.
+
+	- BBY have developed strong relationship with vendors and help them set up their stores within the store.
+
+		- their IT infrastructure also has valuable first party data on consumers which BBY vendors value as part of their ad spend
+
+		- even Amazon set up their kiosk in best buy stores
+
+	- No other retailer offers the breadth and diversity of products
+
+<br>
+
+- BBY offers Price matching to ensure customers end up buying in the store as opposed to going home after "showcasing" and buying online
+
+- aside from staples they also provide the most services that other major retailers don't
+![Services](https://dsm01pap006files.storage.live.com/y4mEGf28cPba_kgUi49861XzTZHM7VELq5B609UuB3kEy4XBgdoxhxbziz0XRTL8iS9V63k23WQ5pgf6uH9wiRMlnleT9qeUIyv_p099Jt1oUALfNdbRHVY4AepdqlOeGYN0mJZR6BDOAcLTL8HnnbMTkp4E5loXKxylN673qmK04-ZkGjd_sG0ZnQOGfmyLBJ0?width=555&height=237&cropmode=none)
+	- source: https://www.forbes.com/sites/greatspeculations/2021/11/02/best-buy-is-thinking-inside-and-outside-the-retail-box/?sh=75b06c676220
+
+<br>
+
+- challenges from competition :-1:
+
+	- big retailers, amazon, walmart, & costco have huge financial backing, real estate, distribution and are also investing heavily into their omni channel
+
+#### Performance <a name="performance"></a>
+
+- operating margin
+
+	- comparing with AMZN North America segment, omni channel allows BBY to leverage their stores as distribution center. Since majority of BBY online orders are picked up in store, this is a driver for their margin advantage
+
+
+		- ![Operating Margins](https://dsm01pap006files.storage.live.com/y4mv7a4j9qQ6KXb-lx-FeA_HyPtMp9ej00Kia17h5U1lsFvIpsAhDCKkApwNryc8XzotuudSu7fTED026vmEuyfEyNybXjZz49mLHdafeD9K4NYGxKjiWj5N7Vu6kjDCIVVBt4aVXmKbS-oy_8516QqB_nsBfQFI47GQ13N-asBg3ZSHpN0qEbUSFQ4vvinSde1?width=655&height=385&cropmode=none)
+
+- revenue growth rates (charts)
+
+	-![revenue change](https://dsm01pap006files.storage.live.com/y4mNonk2Ra0OEUxZosnpywOAk4qODrjlh0dDYOnKnTXV-315fjSBII98uywl_TLO6PBIS3Sdl-Yoq5UsuMFW16cCsc-_A-t9Jt_P9n-hOYOZ43oRuiLzybTp7Bc84AHqI4ZbJl70thH_4_xNfxJpsR97_JijDfCJPN635gFah77XnzMZxCqbvZkLa_9e87y_tk5?width=630&height=366&cropmode=none)
+
+- comp sales
+
+	- ![Comp Sales Growth](https://dsm01pap006files.storage.live.com/y4mlRT7xE8k3qqTNO3BU61qOoAx1C9LHfXSyxMc-YrtdFJ5R-kWqrNoY1GTE_QEkk3RrHyJP3ZilDJaALvkIczZ66NrxjreGdPYNyBL28FGl_vx2dvl9qWfBLKQMsT9CoryskbXtHRyseZ3SCNTjOtxtlIH8HC_GwPWM1-yhqodc168ibTaoAZJaTK7ycqq0M3N?width=819&height=505&cropmode=none)
+
+- ocf & FCF margins (charts)
+
+	- ![MARGINS](https://dsm01pap006files.storage.live.com/y4m7AZGm-s_NXfrIVWmQxq8yyV--CWIl2abMmMkzlKNryY074QRUHBNN3r3--ASEAzoCUkOCAHOgvY5fQenlZzSocNNrdoSyrgctb_zHd4EEFqjVWQtzhQxCl2-jgbAtniFlujRecSJ23EigvghN8RZnppioqivDui9zoXljaYVJAGl1ZUqDVUQ7Yu0DXkylkax?width=1747&height=498&cropmode=none)
+
+- FCF & Revenue (charts)
+
+	- ![FCF and revenue](https://dsm01pap006files.storage.live.com/y4mksCqqXm88Jrpgl5NcxNnl1DsZfDufnVSX1MED4U_rv2bFLoZ_pLu1LlcTfsvX4nwCKHRgn4fpGBz086U5hAcyUbne8wITw0o0o_a8Qr3Kj49AAJNsT7mBJ9EZ-CerlkpazFbaePopv51tidJdjgfYzdOaSCd-2YwK8idULCopD5lxVDD_oCv4EEhx2mZ0jDH?width=1449&height=426&cropmode=none)
+	
+- reinvestment returns
+
+	- ![ROI](https://dsm01pap006files.storage.live.com/y4mE1Eal1q3B4HAB-NV2kiLVvBKllqWke4D6J8rpuS2EabaqO96TXxra9OF5IGzaKvjZB1KJa8cY3LfoT8ARM6r6bZG5d5rn8g9-opUs7A2ExUvm2v2J3hNsfv-PHOjW7Zl8l_gM0JLTXg_N9gKKFev9-OoYoJp__ksnEBB_dIsRygb3FkRpTdeyZGdMAnqyt9J?width=1428&height=428&cropmode=none)
+
+#### Marketshare <a name="marketshare"></a>
 
 - According to statista - Consumer Electonics market is approx 407B dollars in the US as of July 2020
 
-	- based on BBY revenue in FY2021 this would be 11% Market share (2nd place)
+	- 2020 based on [Statista](https://www.statista.com/statistics/642322/leading-consumer-electronics-retailers-of-the-us/) 
+
+		- ![Marketshare](https://dsm01pap006files.storage.live.com/y4mgFnO0W3-Xv9wmTO-ghZ_cpj0E6hGu4a922vCtXkMgNaQOdeF9oNFxe6mYcoMH_VwcO3ktLc9AeYO3MCYuCViDz9EX-VkYpk9a08ynM8bS1IIS_PPvE-tyK5E0cT4kEafq5KioXTyuz48v1u4NHn30HGSSZ35M27ECxBDuZmA6XkY_2u3QnbnJFty-_TKtdnh?width=769&height=458&cropmode=none)
 
 <br>
 
@@ -169,58 +337,97 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 ![Annual Share WMT vs AMZN](https://dsm01pap006files.storage.live.com/y4m5LTfgtTCQnlhJ_nxprHCFo4ewT29Th6jcIUTGp_cbmyRa3aq5IfCOVIQc5-dvONY5Y5v2P6Ep1GEMHRUKN9VLaT2SBkL9ytMNGL5hdr-589urE-JwIvvxivuASrbB43uNxnfUNX9QInNUMhgWRoSwo3avaO28Skuq6mldP7vWOz2huiw6e86w22VnTuiPhzW?width=1209&height=432&cropmode=none)
 
-[Back to Table of contents](#table-of-contents)
+#### PEST Analysis <a name="pest"></a>
 
-## Competitive Analysis <a name="competitive-analysis"></a> :+1:
+- ##### Political
 
-- e-commerce
-	- https://ecommercedb.com/en/store/bestbuy.com
+	- russian war hurting supply chains
 
-	![BBY Online Marketshare](https://dsm01pap006files.storage.live.com/y4mtu5tfYCEttclX0a7mRkHDiLwtCQkKnhsbMsTgJgHljbwc2h11F9-CR898c9_LfiOxAeLEBXkTV6Y6eVYPV8wkQaSD8x9In29o5jXcA-LwNV2BhUcTyfXYpip2mqYDeuRYCuT5kYwrRQSx40DL86mYtqk0OzgFQs5OCWO2qwN_GOnqYLSqYpq6fM3e18w7l7j?width=809&height=509&cropmode=none)
+	- tensions with china could also adversely affect the consumer electronic manufacturing and distrupt the supply chain 
 
-	- ecommerce drove market share gain,  9.6% to 9.8% in consumer electronics
+- ##### Economic
+	
+	- possibility of recession
 
-		- https://www.forbes.com/sites/greatspeculations/2021/11/02/best-buy-is-thinking-inside-and-outside-the-retail-box/?sh=40dc427e6220V
+		- reduced consumer spending :-1:
 
-<br>
+	- marigins negatively affected by inflation :-1:
 
-- store within a store
-	- BBY has outlasted its previous competitors (Circuit City, Radio Shack) and remain to be the go to retailer for Big Brands to showcase their products.
+- ##### Social
 
-	- BBY have developed strong relationship with vendors and help them set up their stores within the store.
+	- consumers are adverse to buying big ticket items online :+1:
 
-		- event Amazon set up their kiosk in best buy stores
+	- new generation is increasgly concerned with sustainability :+1:
+	
+		- don't want all this packaging
 
-<br>
+		- what is the economical foot print of all these AMZN deliveries
 
-- BBY offers Price matching to ensure customers end up buying in the store as opposed to going home after "showcasing" and buying online
+	-
 
-- they hold operating leases in key locations
 
-	-  "1,000 big-box stores, and weÎl within 15 minutes of 70 percent of the U.S. population" - VP of real estate Pat Matre (40 years, retired in 2018)
+- ##### Technological
 
-<br>
+	- BBY spending capex on IT
 
-- Their stores greatly support their omni channel strategy
-	- in Q4 2021 online sales grew 90% and 2/3 of items were picked up in store.
+		- they want to leverage the first party data they have to improve the store expierence :+1:
 
-<br>
+		- the data is also valuable to their vendors as they decide to spend their advertising dollars with BBY to operate their displays in the BBY store :+1:
 
-- aside from staples they also provide the most services that other major retailers don't
-![Properties](https://dsm01pap006files.storage.live.com/y4mEGf28cPba_kgUi49861XzTZHM7VELq5B609UuB3kEy4XBgdoxhxbziz0XRTL8iS9V63k23WQ5pgf6uH9wiRMlnleT9qeUIyv_p099Jt1oUALfNdbRHVY4AepdqlOeGYN0mJZR6BDOAcLTL8HnnbMTkp4E5loXKxylN673qmK04-ZkGjd_sG0ZnQOGfmyLBJ0?width=555&height=237&cropmode=none)
-	- source: https://www.forbes.com/sites/greatspeculations/2021/11/02/best-buy-is-thinking-inside-and-outside-the-retail-box/?sh=75b06c676220
+#### Porter 5 Forces <a name="porter"></a>
 
-<br>
+- ##### Competition
 
-- challenges from competition :-1:
+	- AMZN in the eCommerce online retail channel
 
-	- big retailers, amazon, walmart, & costco have huge financial backing, real estate, distribution and are also investing heavily into their omni channel
+	- WMT, Target, Costco are all big box retailers that are investing heavily into their Omni channel
 
-[Back to Table of contents](#table-of-contents)
+- ##### New Entrants
+	
+	- barriers of entry are high
+
+		- need to set up distrubtion which includes finding the right real estate strategy (lots of capital needed)
+
+		- developing relationship with vendors
+
+	- highly unlikely for new 
+
+
+- ##### Power of suppliers
+
+	- Inflation has increased margin pressure
+
+	- 5 suppliers - Apple, Samsung, Hewlett-Packard, LG & Sony represent 57% of their merchandise :thinking:
+
+- ##### Power of customers
+
+	- Only a few companies in the consumer electronic industry not too many places for the customer to shop around
+
+	- and BBY also offers the price matching 
+
+- ##### Threat of substitute products
+
+	- Manufactuerers can focus more on D2C
+
+		- In 2021 Apple had 36% D2C sales
+
+		- Samsung also focusing more on D2C
+
+	- Several things BBY does that consumers may not require anymore
+
+		- Geek squad
+
+			- a lot of bad reviews, people are usually trouble shooting things them selves these days, educating themselves on Youtube
+
+		- in store expierence and customer service
+
+			- a lot of consumers are also reviewing products online
 
 ## Risks <a name="risks"></a>
 
 - macroeconomic conditions that affect consumer spending :thinking:
+
+	- Inflation
 
 	- federal monetary tightening ahead
 
@@ -234,8 +441,6 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 - CEO being investigated for inappropriate relationship with a senior VP :-1:
 	
 	- a pervious CEO in the past had to resign due to the same thing
-
-
 
 	- source: https://www.conference-board.org/topics/consumer-confidence
 
@@ -294,49 +499,44 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 	- any disasters or distruption in this quarter has significant impact
 
-[Back to Table of contents](#table-of-contents)
-
 ## Valuation <a name="valuation"></a>
 
-
-- updated 2022-05-29
-![DCF](https://dsm01pap006files.storage.live.com/y4mdI_gm-tgNm5WzUsllOmEBMe5lFAB5qo2iFcAA5jIY7oCVIizbpXu9CSbnl7rigps0ZJzF7cBMlxKoblMerPf7lR41SnAi4rRYRdcBNOQxAOSZWHafzK9uEUU65VPiw9rk7idoxoCgkFvN18N-dOEIXCOMtFo7_nTREY_LrIhYzZOHXDf4mc20IATaDZXkR_x?width=1024&height=460&cropmode=none)
-
-
 - higher cost of equity 7.5% (as opposed to our 6% minimum) chosen to offset BBY's narrow moat and existing risk factors.
+- Assumptions
 
-- assumptions
+	- ![DCF Assumptions](https://dsm01pap006files.storage.live.com/y4mfXD7-iLLqZNbsd43oxt7Z_fwe0Iu_lYUyvQ3bu9OconIEeFeuVdSq4AeDxUicjy7btcQcieP7U0aiJS9YAl8UH-Z_PgqbTWW37igjKdIypitx6p0Uxd8WuNCLhHgOvFa70weqCZPUk1X5IT3rc-3B2Qu0qAKpnwWA3Q7KZ7DhEZm6HbwA6pAIJbERORWEidb?width=794&height=277&cropmode=none)
 
 	- avg capex spending of 800M referencing 2021 Q4 guidance
 
-	- assume lower rate of OCF Margin based on higher costs and constraints from pandemic
+	- avg working capital affects nil
+
+	- assume lower rate of OCF Margin based on higher costs and constraints from inflation pressures
 
 	- assume some demand has been pull forward from pandemic
 
-	- assume a return closer to pre-pandemic levels
+		- FY2023Q1 revenue fell 9%
 
-	- assume a terminal growth rate of 2%
-		- BBY has been able to show consecutive years of comp sales growth since their 2012 turn around
+		- and assume more head wins in FY2024
 
-![Comp Sales Growth](https://dsm01pap006files.storage.live.com/y4mlRT7xE8k3qqTNO3BU61qOoAx1C9LHfXSyxMc-YrtdFJ5R-kWqrNoY1GTE_QEkk3RrHyJP3ZilDJaALvkIczZ66NrxjreGdPYNyBL28FGl_vx2dvl9qWfBLKQMsT9CoryskbXtHRyseZ3SCNTjOtxtlIH8HC_GwPWM1-yhqodc168ibTaoAZJaTK7ycqq0M3N?width=819&height=505&cropmode=none)
+	- OCF Margin
 
+		- operating margin went from 6.6% to 4.3%
 
-[Back to Table of contents](#table-of-contents)
+		- assume OCF margin average from pre pandemic levels
+
+	- assume a terminal growth rate of 2.5%
+
+- DCF
+
+	- ![DCF](https://dsm01pap006files.storage.live.com/y4mHVAA-vBHCDyP4FWSoO0xibqqjg56o5u5Qv2HIxGU-T5KkGHt-wTIb4_CQFA-UftQD6opZqianqLhxCiziVwaKP2y8Dfb6F1hQHresaBo6Aaa0MvXSlc5UZvMO_pFG5MpDo0hB9DP6BhJYCcYNicwUgy-jjmVVD9_Bpnw2UD9DG_h7t58MFtwY2oanZjs3_Ne?width=1352&height=277&cropmode=none) 
 
 ## Management Analysis <a name="management-analysis"></a>
 
-- Reinvestment returns <a name="reinvestment-returns"></a>
+- *Reinvestment returns* <a name="reinvestment-returns"></a>
 
-	- chart :+1:
-![Reinvestment Returns](https://dsm01pap006files.storage.live.com/y4mtmK28gE8XuTUo84koZhdqnHKTG6QWjuYgNmER5jlB-eok6lACEm6xWu6kYcU9UMm6McTykqNwLNBz13IWfkjYSgj4778OdAmhh53PZOgJJYGLNcVDdvQOxdLygpo_Gxmn2k44ZpXWzaIpBFNynKWVfOczfZG15nm7gSrQHrYsyRREoG8o5KvUZ-pWYDzSeHK?width=1420&height=234&cropmode=none)
+	- *Capex* <a name="capex"></a>
 
-	- 2013 
-
-		- Acquisition - mindSHIFT (MSP) IT services acquisition - but eventually ditched it two years later :thinking:
-
-	- 2014 :+1:
-
-		- Capex
+		- 2014 :+1:
 
 			- dramatic decrease on new store spend 
 
@@ -344,84 +544,102 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 			- increasing spend on IT (Includes e commerce projects)
 
-	- 2015 - Divested in underperforming Europe and China Business :+1:
+		- 2015 - Divested in underperforming Europe and China Business :+1:
 
-	- 2018
+		- 2018
 
-		- closed most of their mobile stand alone siting high costs and low revenues :+1: 
+			- closed most of their mobile stand alone siting high costs and low revenues :+1: 
 
-	- 2019 - approx 700M investment in GreatCall
-		- healthcare services
+		- 2019 - approx 700M investment in GreatCall
+			- healthcare services
 
 
-	- 2018 - 2021
+		- 2018 - 2021
 
-		- shift from store capex spending to e-commerce and IT
+			- shift from store capex spending to e-commerce and IT
 
-		- marked increase in e-commerce spending :+1:
-			![Capex](https://dsm01pap006files.storage.live.com/y4m6sEp0bpRwM31lA7tZuwF2xgI8P6eEan0Y2DgIxgxX84KWzP1du4EBpPjX3rY4Qbs-dldixXbLqopQzZ3uWqxOcLtNKKyZsChImo5I3-F8bGeMbmAsAPhfUk1wSi-7YlxFR1pijP5lvCY1LxhPRGsJM_PXNFyIQfPc8eE_2M1if2RAEjVrmcKsNKS4N_zx9mk?width=1070&height=276&cropmode=none)
+			- marked increase in e-commerce spending :+1:
+				![Capex](https://dsm01pap006files.storage.live.com/y4m6sEp0bpRwM31lA7tZuwF2xgI8P6eEan0Y2DgIxgxX84KWzP1du4EBpPjX3rY4Qbs-dldixXbLqopQzZ3uWqxOcLtNKKyZsChImo5I3-F8bGeMbmAsAPhfUk1wSi-7YlxFR1pijP5lvCY1LxhPRGsJM_PXNFyIQfPc8eE_2M1if2RAEjVrmcKsNKS4N_zx9mk?width=1070&height=276&cropmode=none)
 
-		- e-commerce sales incrase 144% during pandemic
+			- e-commerce sales incrase 144% during pandemic
 
-		- ecommerce playing a pivotal role (43% of their domestic revenue) & stores continue to play a vital role in delivery :+1:
-			- 2/3 of online sales customers did in-store or curb-side pickup (fiscal 2021 q4) :+1:
+			- ecommerce playing a pivotal role (43% of their domestic revenue) & stores continue to play a vital role in delivery :+1:
+				- 2/3 of online sales customers did in-store or curb-side pickup (fiscal 2021 q4) :+1:
 
-<br>
-<br>
+	<br>
+	<br>
 
-- Cash returned to Shareholders <a name="cash-returned-to-shareholders"></a>
+	- *Working Capital* <a name="working-capital"></a>
+
+		- generally pretty neutral
+
+		- Inventory :+1:
+
+			- ![Inventory turnover](https://dsm01pap006files.storage.live.com/y4m66-TJG1j1dQ_bsEYkag4yhAQwLuhxbtmAa2gTaaSZoRPCV0tSn471tU1HsqDIlOzMcS3q1DbVJpZHTqJ_w-NTkRHL_EiCQcdYaXikTOFyL7Z8XmIRQhqUNRzKWMZP9axrMnSafnmwRQo0f4G7MeYJvWFWkecQPw8dZ4KoA3fW2wpcdRvTLWrrgDqRVWfSu58?width=646&height=377&cropmode=none)
+
+
+	- *Acquisitions* <a name="acquisitions"></a> :+1:
+
+		- most of their growth has been organic! :+1:
+
+		- ![acquisitions](https://dsm01pap006files.storage.live.com/y4m0UG11iDUKsnQwyHzagsaOXmmeYytnAZAbnT9SC9smlO5OqKpIdbbrid1vcOE7DGJPFgXBKw7lI9y5Vj_LJ_Tp4BF0AqmgZYbaHC3-Dvjrk0is1rYG2hzjTaRUJvswhHi8caTa9DCR9nElPsLIdUCQK9J5EMHyH0N7XAeoumVHgvCx3TDXnAq0t8-5jumfRBT?width=1353&height=64&cropmode=none)
+
+			- 2019 Great call healthcare services
+
+	- *R & D Analysis/Advertising, reinvestment* <a name="rd-analysis"></a>
+
+		- r & d/advertising and Capex (charts)
+
+
+- *Cash returned to Shareholders* <a name="cash-returned-to-shareholders"></a>
 
 	- From 2016 AR - "our long-term capital allocation strategy is first to fund operations and investments in growth, including potential acquistions, and then to return excess free cash flow over time to shareholders through dividends and share repurchases. Our intent is to be a premium dividend payer and to regularly repurchase shares every year that, at a minimum, offset dilution from equity-based awards. We intend to do this all while maintaining investment-grade credit metrics." :thinking: why premium dividend payer?
 
 	- From 2021 AR - "our long-term capital allocation strategy is to first fund operations and investments in growth and then return excess cash over time to shareholders through dividends and share repurchases while maintaining investment-grade credit metrics." :+1: 
 
-	- Buybacks <a name="buybacks"></a> :+1:
+	- ![FCF Distribution](https://dsm01pap006files.storage.live.com/y4miRmaIE6ykSLRmUhOuGUU_UUY1EbtP5yzu7FeiB6E11flVWbLtbBjYiEKqEaW4I8Fg3flqoTIX2Ohwf8_TirKFhFIfPlFScFroxKqQ53QEwiU959v906F9tw-e7E2NlFx5Do86dtcbWmICEAX-tsVxYmbvcQE-vJPwvyA9i0qkaHJAzqM1hcBhAl6kdBDaCJD?width=706&height=374&cropmode=none)
 
-		- Used a high % fcf to buy back stock between 2016 - 2020
+	- *Buybacks* <a name="buybacks"></a> :+1:
 
-		- fiscal 2021 (2020) suspended buyback program to conserve liquidity for COVID
+		- ![buybacks](https://dsm01pap006files.storage.live.com/y4muz8WriH05eiDrfkegL7V-1pEaAqPl-PKbs7nBQqhfelT9_gM2A2tYEBJJ17zSy07C9s9zpTj2nNUz20H7Vyulu1LUUECFEiMA_vGB5rQ-U_Q9Hq1JTCYHn6pWGiyeB1mxYTSjqSTy7bFNYxTaHeYaaBvz8hRYclVmARG4GKdG6MllR3Z9P1QJzOj7zChPYxN?width=1352&height=216&cropmode=none)
 
-		- continue buybacks in fiscal 2022 (2021) plan to purchase more than $2.5B worth of stock
+		- pretty consistent
 
-			- in 2022 Q3 they have spent $1.7B
+	- *Dividends* <a name="dividends"></a> :+1:
 
-		- balance sheet still strong
-
-			- 2022 Q3 $140M Net debt - historically low
+		- ![dividends](https://dsm01pap006files.storage.live.com/y4mePjS-JxknD1l0zj9vxx13OmX8vbWKCgfm_rUkMgkKRvx2rL3C9qdR5HhHDWDNFd3Y0AQtsn_QPoaepXNphZR2EfbiWV8-R_K0BbtpSPwJBncOgfqn-ixGmeHEuZ0t8-S88mKV6KAMLmA06yh15T9BKwWhsHMq1-y3eOTmmT0lbt6U2RK11hJ1ysVAHFVgi9B?width=1349&height=104&cropmode=none)
 
 
-	- Dividends <a name="dividends"></a> :+1:
 
-		- pretty steady increase
+- *Debt Management* <a name="balance-sheet-analysis"></a>
 
-<br>
+	- end of FY2023Q1
 
-- Debt Management <a name="balance-sheet-analysis"></a> :+1:
-	
-	- 2022-05-12 update interest coverage by FCF 100+ :+1:
+		- cash balance really low,   paid off AP, increased inventory
 
-		- net debt to fcf 0.17 :+1:
+			- WMT and TGT also came in negative on FCF for the quarter
 
-	- interest coverage of approx 44-84 :+1:
+		- in FY2020 WC was a huge source of cash,  payback?
+
+	- end of FY2022
+
+		- ![balance sheet](https://dsm01pap006files.storage.live.com/y4mIHad0xVnx6bAAmFAioBCNNWT_prWe1VLfUtIvigIKu6OJarIuEZpjInBD8xJt-lCHjLHFhJdW1lC6enuFCTNKjdUFjBq34pI84gM20qYWjm4hngJZmXDHErvlITdTNlO7d4mjtfhE30vZnWKtKF2MhYVDvoI1bSuh5_zJdNCIUjQFzK59dEOn3mi0GCHuHPw?width=1348&height=128&cropmode=none)
+
+		- ![interest coverage](https://dsm01pap006files.storage.live.com/y4mlu5zUSW3oP3SH7cCaB__x9gZZ8DwnYfdS5YZ6Ugb8JqsBzLi1zjgHXeHTI7ip0z9OH8GbzSa6apRNVzkoQVXbhFKI-mZrfaSlVFlHMYmu4h88-Zxe6Vi35JR4rSsCYcTLIgzBMREKboXIPpdSzPdrMTQ7shRREE7r3vqw5rWEGMKS0ncNId9EmpUFjAKp_nF?width=1345&height=62&cropmode=none) 
 
 	- in the past decade they have been reducing their relative debt
 
-	- they were cash positive in 2021
+	- upcoming maturities
 
-	- current - 
-		- historically low at 140M :+1:
-![Debt Trend](https://dsm01pap006files.storage.live.com/y4mcEBzksWohSug0fm69ruEcoRcQho2eKpn6sPZQGowpWE3ESvEKvByy-vEelobl_uPc_vO948CT6NhezN3z4IzzuT9fIuXBv1wNutCtWSwd-I11ynM1cDdCF5v43JqB6EwbUX3MSM9ICUfxcz34GGNvULWKOpNUS89FDbjmeIb4QDU1nxnainU2IHUS2PP6Pgt?width=1126&height=153&cropmode=none)
+		- 2028 4.45% fixed notes 
 
-	- they have a little net debt now after doing buybacks and increasing inventory but historically low :+1:
+		- 2030 1.95% fixed
 
-	- comparison with some competitors they are in the middle :+1:
-![Debt Comp](https://dsm01pap006files.storage.live.com/y4mGdySYvXG1TCtWUFYmL1m8IKSEMnHBvY6SFyL9-HZUS5qtfE0w8Yt5JYMGdE9GL54Q7E8tAYHzHHQr-OGOohx1qum9t2ya0Qq8SUKgIckP5HsLlFHnfJr3dqYErqSwXXVgd9TplpGVtdFTQMaDmpNbdHIqt-PRQr9GEjiYxWuIXrChI5UYqRZ7MkuofHXFEIy?width=700&height=68&cropmode=none)
-<br>
-<br>
 
-- Executive Officers <a name="executive-officers"></a>
+- *Executive Officers* <a name="executive-officers"></a>
 
-	- continuity :+1:
+
+	- *Continuity* <a name="continuity"></a>
 		- Former Chairman & CEO - Hubert Joly (remains as advisor to Best Buy)
 			- 2012 - to 2019 - transformed the company 
 				- store in store concept
@@ -446,7 +664,9 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 			- 2013-2018 CVS health 
 
 			- prior also senior vp of staples
-	- compensation
+
+
+	- *Compensation* <a name="compensation"></a>
 
 		- compensation breakdown has almost not changed since 2013 :+1:
 ![Compensation Breakdown](https://dsm01pap006files.storage.live.com/y4mZ35kkE-_n1C5jJnNdg8l8RQp45r1NZCClhgghy44AWHd9419Qv1ULvEW3AqWvPA3n_yWxOq_Q8n3usyeH5mELbsH9iAe0u---bU1peIzYh-XpkwIQLSGPfd5ek4O-FA3F4dIGUt17FQKATCxNmnlqHm5yVzwlpZSVtksq84kLaatCQPbf0gHj4wwtUYTJ0sH?width=925&height=280&cropmode=none)
@@ -455,10 +675,9 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 ![Peer Group](https://dsm01pap006files.storage.live.com/y4mt0DENgDMTYqvTL4B-JYOyJ3H0Zspsj-vrlOgRcynNX6g7j-5yAb6QJ08k22kt8CguCkStQhqUs9tznmN0juqXvtGizJD2OjfZXFwhniT1TG4x0bHbO-donn5sWcMKk1KjlQfHCwTc_xcF03nCfcfhK-QhUeUDUCGA6iabin3u2k9s2HbMuTNcpoAFW7nQAeT?width=972&height=157&cropmode=none)
 ![Compensation Comparison](https://dsm01pap006files.storage.live.com/y4mBUfOQePirNgl344Sd52ik8aPHALy7pMNbi9Hy9VT4da9rkTtjXawqSISH7ej-Bzp00FKzh66y-MNt-xQjheUjonv_kr_h8Dj-7z7jfFoV6X3ztNWQwfSeRVA9-pITtJULfuLfFZFGIA9zaIDiAM31pX9yTO9J3HEqeJsZKwhZ_-m9-XtPH1KYUJCgU6e96h2?width=572&height=109&cropmode=none)
 
-[Back to Table of contents](#table-of-contents)
 
 ## Other Due Dilligence <a name="due-dilligence"></a>
-- Resilience  <a name="resilience"></a>
+- *Resilience*  <a name="resilience"></a>
 
 	- comp sales
 
@@ -481,21 +700,16 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 
 		- moved away from newspaper, magazine & television ads to more digital marketing
 
-- Insider Actions  <a name="insider-actions"></a> :thinking:
 
+- *Insider Actions*  <a name="insider-actions"></a> :thinking:
 	- CEO and CRO sold approx 1/5th of their shares in 2019
 
 	- CFO sold 19% of his shares in 2020-11-25
 
 	- other than that, nothing out of the ordinary
 
-- Major Shareholders  <a name="major-shareholders"></a> 
-![Major Shareholders](https://dsm01pap006files.storage.live.com/y4mnM1m53vOixSwUN-qRKEj4KlbVjDsZO3tdBSY2kjli4JbeAr8tlwdddHh5TwyUDAEhP3cTTgcn5HfT0JhHINQb4VrcZt39-SADUob6dn2hra-Q_r1H2S6SfoZeSNs3yZ-UcCJW7GhynaBue0Yj-LtQEe8CR4HKgAR6OU19mGHIdO9DcUAr2fluXxthbPwbFo8?width=723&height=265&cropmode=none)
-	
-[Back to Table of contents](#table-of-contents)
 
-- Extra Articles <a name="extra-articles"></a> 
-
+- *Extra Articles* <a name="extra-articles"></a> 
 	- https://www.forbes.com/sites/walterloeb/2020/08/26/best-buy-successfully-changed-its-strategy-to-lead-in-the-pandemic/
 
 	- https://www.forbes.com/sites/joanverdon/2019/09/26/a-better-best-buy-six-reasons-to-bet-on-it/?sh=577547ed72ea
@@ -506,163 +720,67 @@ Our target price is based a slightly higher cost of capital to mitigate risks in
 	- https://www.conference-board.org/topics/consumer-confidence
 	- https://www.indigo9digital.com/blog/bestbuyecommercestrategy
 	- https://www.traqline.com/newsroom/blog/head-to-head-to-head-walmart-vs-best-buy-vs-amazon-2020/
+- *Earnings Call* <a name="earnings-call"></a> 
+
+	- *2023 q* <a name="FY2023Q1"></a> 
+		- 2022-05-29 (earnings call 2023Q1)
+			
+			- risk :-1: cash is DOWN
+
+				- negative cash flow for the quarter
+
+				- ACCOUNTS PAYABLE decrease
+
+				- revised DCF
+
+			- promitional pressure & inflation costs
+
+			- computing and home theatre main sale decline drivers
+
+			- in home consultation and installation significant increase
+
+			- inflation
+
+				- labour, marketing & supply chain
+
+			- sales mix, customer shift to premium products and higher price points
+
+			- passing some cost to customers
+
+			- opening more outlet stores
+
+			- 45 store remodels
+
+			- category expansion
+
+				- electric skooters and bikes
+
+			- they say strong growth in health
+
+			- total tech question about what featuers are resonating?
+
+				- non answer, just say its broad amongst different demographics?
+
+				- no current answer to retention vs churn
+
+			- they talk about credit card offsetting some of the declines
+
+			- more promotions in tv and computer
+
+			- they expect promotion to return more to FY 2020 (2019) in this year
+
+			- late half should be better, effect of stimulus will be off, more availability in product, no store closure from covid hopefully
+
+			- will the re evaluate 2025 guide
+
+				- reccession question
+
+					- consumer electronic is very stable says CEO
+
+					- at this point BBY is not forecasting a recession, just softer demand
+
+			- total tech pressure projected cadance to go to zero in Q3 or Q4
+
 
 [table of contents](#table-of-contents)
-
-## Updates <a name="updates"></a>
-
-- 2022-05-29 (earnings call 2023Q1)
-	
-	- risk :-1: cash is DOWN
-
-		- negative cash flow for the quarter
-
-		- ACCOUNTS PAYABLE decrease
-
-		- revised DCF
-
-	- promitional pressure & inflation costs
-
-	- computing and home theatre main sale decline drivers
-
-	- in home consultation and installation significant increase
-
-	- inflation
-
-		- labour, marketing & supply chain
-
-	- sales mix, customer shift to premium products and higher price points
-
-	- passing some cost to customers
-
-	- opening more outlet stores
-
-	- 45 store remodels
-
-	- category expansion
-
-		- electric skooters and bikes
-
-	- they say strong growth in health
-
-	- total tech question about what featuers are resonating?
-
-		- non answer, just say its broad amongst different demographics?
-
-		- no current answer to retention vs churn
-
-	- they talk about credit card offsetting some of the declines
-
-	- more promotions in tv and computer
-
-	- they expect promotion to return more to FY 2020 (2019) in this year
-
-	- late half should be better, effect of stimulus will be off, more availability in product, no store closure from covid hopefully
-
-	- will the re evaluate 2025 guide
-
-		- reccession question
-
-			- consumer electronic is very stable says CEO
-
-			- at this point BBY is not forecasting a recession, just softer demand
-
-	- total tech pressure projected cadance to go to zero in Q3 or Q4
-
-- 2022-05-22 (earnings call 2022Q4)
-
-- Synopsis
-
-	- total tech a margin pressure
-
-		- consumer reviews mixed
-
-	- services overall came back with strong comp growth after shutdowns
-
-	- ambitious revenue goals of $53B by 2025
-
-		- we are maintaining more conservative estimates (see DCF Analysis)
-
-	- they are investing acquiring into healthcare
-
-		- 2019 greatcall approx 700-800M
-
-		- and now current health approx 400M
-
-- Anaylsis
-
-	- Updated DCF with latest annual report (updated in recommendations)
-
-	- Balance sheet analysis (updated in section)
-
-		- good net debt to FCF coverage 0.17
-	
-		- even better interest coverage 100+ :+1:
-
-	- last earnings call (2022 Q4)
-		
-		- Q4 enterprise comp sales down?
-			
-			- inventory constraints & reduced store hours due to covid omircron call out
-
-		- total tech
-
-			- reset on lower gross profit
-
-			- need to increase volume to replace old legacy
-
-			- total tech is a drag right now on operating margin
-
-				- watched youtube reviews and comments
-
-				- mixed reviews
-
-				- $200 per year, pretty pricy
-	
-			- Total tech % of revenue?
-
-				- not available
-
-			- seems to be a drag on their margins currently :-1:
-
-			- https://www.youtube.com/watch?v=3ebbunJ7_g0  this youtuber went with it - not sure yet though :thinking:
-
-
-		- hows bestbuy health doing?
-
-
-		- outlook
-
-			- -1% - 4% revenue drop
-
-			- 20-30 store closures
-
-			- lower operating income pressure, near term pressure, drive longer term growth 
-
-			- capex 1.1B
-
-			- 49.3 - 50 B in FY23
-
-			- FY25 target 53.5B - 56.5B (we made 49.6B in our DCF)
-
-				- category expansion and best buy health
-
-				- total tech and store remodels
-	
-				- Industry Growth
-
-	- Aquisitions
-
-		- Current Health
-
-		- Yard bird 
-
-		
-
-	- Services 
-
-		- took a hit in FY2021 (2020)
-
-		- made a strong rebound in FY2022
-
 
