@@ -77,6 +77,10 @@
 
 - trends?
 
+- drivers
+
+- restraints
+
 ## Competitive Analysis <a name="competitive-analysis"></a>
 
 #### Structural Advantages <a name="structural-advantages"></a>
