@@ -20,7 +20,7 @@
 
 #### Valuation 
 
-![DCF](https://dsm01pap006files.storage.live.com/y4mHVAA-vBHCDyP4FWSoO0xibqqjg56o5u5Qv2HIxGU-T5KkGHt-wTIb4_CQFA-UftQD6opZqianqLhxCiziVwaKP2y8Dfb6F1hQHresaBo6Aaa0MvXSlc5UZvMO_pFG5MpDo0hB9DP6BhJYCcYNicwUgy-jjmVVD9_Bpnw2UD9DG_h7t58MFtwY2oanZjs3_Ne?width=1352&height=277&cropmode=none) 
+	- ![DCF](https://dsm01pap006files.storage.live.com/y4mZ2eHs5kxqhPkvSKZSyhPwBOYK7S-htsx27f39Q6Siw98G1SSFpBIYs1xNAHJY0lnXhVwPsgAXJwiXfjE1nbdnXCar_CYehYB6LJodlymuos0SERUVkeuuR--XRjx1bQMDc0hsXMMVxopX-pG6EHRdQAWDR9CDIBwv2ZL48wn-_niL1oszku3N4V77ADBzc8W?width=1353&height=276&cropmode=none)
 
 
 #### Risks
@@ -504,7 +504,7 @@
 - higher cost of equity 7.5% (as opposed to our 6% minimum) chosen to offset BBY's narrow moat and existing risk factors.
 - Assumptions
 
-	- ![DCF Assumptions](https://dsm01pap006files.storage.live.com/y4mfXD7-iLLqZNbsd43oxt7Z_fwe0Iu_lYUyvQ3bu9OconIEeFeuVdSq4AeDxUicjy7btcQcieP7U0aiJS9YAl8UH-Z_PgqbTWW37igjKdIypitx6p0Uxd8WuNCLhHgOvFa70weqCZPUk1X5IT3rc-3B2Qu0qAKpnwWA3Q7KZ7DhEZm6HbwA6pAIJbERORWEidb?width=794&height=277&cropmode=none)
+	- ![DCF Assumptions](https://dsm01pap006files.storage.live.com/y4m3-OrW9YsB8QhWAphzHb3dfTPWIIg4FvdG9h0Y8_ao2O6ty74xCmGKKeDkUnZk3jPgRmK328g8x7kIHabd_8mFr66J-kYUckkqsc1TnEiZox6Ab3vNjxfwlcPHGaAu1FW0J4zYtRoL8ElhlD7ZNeM2ccfeNahAMkgq_ObE9DQ0HZRE2rf3I0RFNrYu_mc_5Md?width=791&height=280&cropmode=none)
 
 	- avg capex spending of 800M referencing 2021 Q4 guidance
 
@@ -528,7 +528,7 @@
 
 - DCF
 
-	- ![DCF](https://dsm01pap006files.storage.live.com/y4mHVAA-vBHCDyP4FWSoO0xibqqjg56o5u5Qv2HIxGU-T5KkGHt-wTIb4_CQFA-UftQD6opZqianqLhxCiziVwaKP2y8Dfb6F1hQHresaBo6Aaa0MvXSlc5UZvMO_pFG5MpDo0hB9DP6BhJYCcYNicwUgy-jjmVVD9_Bpnw2UD9DG_h7t58MFtwY2oanZjs3_Ne?width=1352&height=277&cropmode=none) 
+	- ![DCF](https://dsm01pap006files.storage.live.com/y4mZ2eHs5kxqhPkvSKZSyhPwBOYK7S-htsx27f39Q6Siw98G1SSFpBIYs1xNAHJY0lnXhVwPsgAXJwiXfjE1nbdnXCar_CYehYB6LJodlymuos0SERUVkeuuR--XRjx1bQMDc0hsXMMVxopX-pG6EHRdQAWDR9CDIBwv2ZL48wn-_niL1oszku3N4V77ADBzc8W?width=1353&height=276&cropmode=none)
 
 ## Management Analysis <a name="management-analysis"></a>
 
