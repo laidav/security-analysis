@@ -623,9 +623,9 @@
 
 	- end of FY2022
 
-		- ![balance sheet](https://dsm01pap006files.storage.live.com/y4mIHad0xVnx6bAAmFAioBCNNWT_prWe1VLfUtIvigIKu6OJarIuEZpjInBD8xJt-lCHjLHFhJdW1lC6enuFCTNKjdUFjBq34pI84gM20qYWjm4hngJZmXDHErvlITdTNlO7d4mjtfhE30vZnWKtKF2MhYVDvoI1bSuh5_zJdNCIUjQFzK59dEOn3mi0GCHuHPw?width=1348&height=128&cropmode=none)
+		- ![balance sheet](https://dsm01pap006files.storage.live.com/y4m2-MuHcjkX1IMyEP6aML2sGQr5dztIRr67ZCB-gMJuMeyT3uWXe30H01WBXuy_6WbHV5Vp9hfC5TlfFr6tC79RO_K1MFMRd4xhuNbjoT5MWtjBmOSXkBeVQBajE17P3SKtpfGz8NBqLAx8bZ6QX8wpUVN-ztuqVg0649iOxf_Mij5rMMOGDwAFtGD7uhDfFfn?width=1354&height=157&cropmode=none)
 
-		- ![interest coverage](https://dsm01pap006files.storage.live.com/y4mlu5zUSW3oP3SH7cCaB__x9gZZ8DwnYfdS5YZ6Ugb8JqsBzLi1zjgHXeHTI7ip0z9OH8GbzSa6apRNVzkoQVXbhFKI-mZrfaSlVFlHMYmu4h88-Zxe6Vi35JR4rSsCYcTLIgzBMREKboXIPpdSzPdrMTQ7shRREE7r3vqw5rWEGMKS0ncNId9EmpUFjAKp_nF?width=1345&height=62&cropmode=none) 
+		- ![interest coverage](https://dsm01pap006files.storage.live.com/y4mCZ0EZLUXJLIJp1doCVyapwadiVnkTroiWZTBuBIssgesrjYaM0e2GSTkZorUhSoxIBfoRRL9t0UaE7soquENEv2EsVODbebzbdXdvmCTYLT2ZOKXfn1BrIBJ3V09Kgr63W--cglXVix0v8ElUFpqywyiAq8QdCMXMtvNMZtMlNOHcpkL5jnJ8A30xeKN-7vk?width=1354&height=196&cropmode=none)
 
 	- in the past decade they have been reducing their relative debt
 
