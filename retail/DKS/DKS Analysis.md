@@ -447,10 +447,10 @@
 - *Debt Management* <a name="balance-sheet-analysis"></a>
 
 	- Good interest coverage :+1:
-![Interest coverage](https://dsm01pap006files.storage.live.com/y4mOYWeAs508gz4ayEkYF7DpEzPAwZHOocP2F41G0W8wGLYpXdUUjP7c9rPXUTxx_-6ZC_VUoq-ClmgGKLAphxjWZvci2kd5RE8QOYqv-y8_6l3yojgrzUfEO3P0mVDbIiTH2s5xyPKnOzcyDv4TdO6aD9MXoJgE0ontzaZcq5YN5HNitXKjxUUmqLLPXUSNcEv?width=1342&height=170&cropmode=none)
+![Interest coverage](https://dsm01pap006files.storage.live.com/y4mxjB-aUsY-YJKoZOJy9ixwfJAtFVmCiMdnJWROpGAqDymbkTWXsI33ymfszMaT1SdHQqqxsAlaf8hNE_uRmHKXrYdgWsSL_rC9OcnWOJywknNgkrLVCo1friOz_SlXlZk826Fic789MkE8SbWP4FJgqj1AK4ovDkxCB0MYSc0mmXecqMV7rxgUDrQpBnz35u1?width=1354&height=197&cropmode=none)
 
 	- Good FCF coverage on net debt
-![FCF Coverage](https://dsm01pap006files.storage.live.com/y4mxn2XcB72PZ9jaokwaymBaNAJpzUf6edInVA9HQGlLvlelbx86O3CfrHxmSe9-nmNxq8QUAiqBU0pNUGeIgD8Ei_pe343tJWfdt3pa7TPXLIADTvhrWzi60x8L944RnVpoGQiABsSRpwoa44LQj5AyP8AzINP-XJ6_CnjAwYeeaUsFkGSEYZ-5y9fjQKX9GOv?width=1377&height=150&cropmode=none)
+![FCF Coverage](https://dsm01pap006files.storage.live.com/y4mUB55xVkcRaNPiaG1b_vjCzF4kI-2PGEhwPSjDsIu0bW4XxVKk9HEbn4sgzFxdO02VdTzHFeehtiBGbJGXXWJDRzoqN-moyIohki_mpbH-6H9UvhtGFZLzcmJEnwoSJVYhNXYF2d5YViOG_cTlyHRWKpG94yNfNsg8xVX_wthbysZ5OWVZggPaWAECueKz6p6?width=1351&height=151&cropmode=none)
 
 	- upcoming maturities, recently secured notes :+1::+1::+1:
 
