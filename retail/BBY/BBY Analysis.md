@@ -20,7 +20,7 @@
 
 #### Valuation 
 
-	- ![DCF](https://dsm01pap006files.storage.live.com/y4mZ2eHs5kxqhPkvSKZSyhPwBOYK7S-htsx27f39Q6Siw98G1SSFpBIYs1xNAHJY0lnXhVwPsgAXJwiXfjE1nbdnXCar_CYehYB6LJodlymuos0SERUVkeuuR--XRjx1bQMDc0hsXMMVxopX-pG6EHRdQAWDR9CDIBwv2ZL48wn-_niL1oszku3N4V77ADBzc8W?width=1353&height=276&cropmode=none)
+- ![DCF](https://dsm01pap006files.storage.live.com/y4mZ2eHs5kxqhPkvSKZSyhPwBOYK7S-htsx27f39Q6Siw98G1SSFpBIYs1xNAHJY0lnXhVwPsgAXJwiXfjE1nbdnXCar_CYehYB6LJodlymuos0SERUVkeuuR--XRjx1bQMDc0hsXMMVxopX-pG6EHRdQAWDR9CDIBwv2ZL48wn-_niL1oszku3N4V77ADBzc8W?width=1353&height=276&cropmode=none)
 
 
 #### Risks
