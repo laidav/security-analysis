@@ -16,6 +16,7 @@
 	1. [Business Segments](#business-segments)
 		1. [Segment 1](#segment-one)
 		1. [Segment 2](#segment-two)
+	1. [Business Strategy](#business-strategy)
 	1. [Major Suppliers](#major-suppliers)
 	1. [Major Customers](#major-customers)
 	1. [History](#business-history)
@@ -63,6 +64,8 @@
 
 
 	- Revenue mix (table/chart)
+
+- *Business Strategy*<a name="business-strategy"></a>
 
 - *Major Suppliers* <a name="major-suppliers"></a>
 	
