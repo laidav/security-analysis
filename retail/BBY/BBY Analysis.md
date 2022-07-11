@@ -1,4 +1,4 @@
-# Company (TICKER)
+# Company (BBY)
 
 ## Summary and Recommendation
 
